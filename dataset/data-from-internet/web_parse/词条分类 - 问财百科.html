@@ -1,0 +1,633 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class="all_height" style="overflow-y:scroll">
+<head>
+<meta name="renderer" content="webkit">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="百科、i问财、财经百科、金融百科，股票入门基础知识、金融入门基础知识、同花顺"/>
+<meta name="description" content="财经百科是一个动态有机的财经知识库体，它致力于最大范围地涵盖股票、债券、基金、港美股、期货、信托、理财、管理等领域，将陈旧死板的知识活络延伸到应用，是财经知识入门的绝佳平台。" />
+<meta name="window-size" content="width=1000&height=650" /><title>词条分类 - 问财百科</title>
+<link href="//ws1.thsi.cn/publicb5ff8dfc/externcss/common.css" rel="stylesheet" type="text/css">
+	<link href="//ws1.thsi.cn/publicb5ff8dfc/externcss/yike.css" rel="stylesheet" type="text/css">
+
+
+	<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico"/>
+	
+
+
+<script type="text/javascript" src="//s.thsi.cn/js/chameleon/chameleon.min.1648563.js"></script> <script type="text/javascript">
+    var global_pa_start_time = new Date().getTime(); // PA日志统计起始时间
+</script>
+<script type="text/javascript">var __if_detect_mobile_device__=true;</script>
+<script src="//s.thsi.cn/cb?js/common/cefapi/1.5.1/cefApi.min.js"></script>
+
+<script src="//s.thsi.cn/cb?iwencai/zfnews/lib/;jquery-1.8.0.min.js;jquery.ba-resize-1.1.min.js;jquery.form-1.1.1.min.js;php.default-2.47.min.js;smart.min.js;smart.plugin.min.js"></script>
+<script type="text/javascript">
+    
+    var GLOBAL = GLOBAL || {};
+    GLOBAL.pageData = GLOBAL.pageData || {};
+    
+	domainCfg = {"key":"iwencai","domain":"www.iwencai.com","record":"\u6d59ICP\u590709003598\u53f7","siteName":"\u95ee\u8d22\u8d22\u7ecf\u641c\u7d22","siteNameShort":"\u95ee\u8d22","showAboutUs":"0"};
+	GLOBAL.staticHostA = "//ws3.thsi.cn";
+	GLOBAL.staticHostB = "//ws2.thsi.cn";
+	GLOBAL.staticHostC = "//ws1.thsi.cn";
+	GLOBAL.staticJs = "/publicb5ff8dfc/externcss/njs";
+	GLOBAL.logType = "image";
+	GLOBAL.cid = "46905744309bbad90b2f3c1f92b118e11648563223";
+	global_svnVersion = "b5ff8dfc";
+</script>
+<script src="//ws2.thsi.cn/externjsb5ff8dfc/common.js" type="text/javascript"></script>
+<script id="monitor-script" api_key="ths_iwc" src="//s.thsi.cn/cb?/js/common/monitor/1.0/monitor.min.js" crossorigin></script>
+<script type="text/javascript">
+    
+        if (window.feMonitor) {
+            feMonitor.setConfig({
+                slientDev: false,
+                sampleRate: 0.1,
+                isCollectPerformance: true,
+                title: "同花顺PC问财（旧版）"
+            })
+        }
+    
+</script>
+<link href="//ws3.thsi.cn/publicb5ff8dfc/externcss/static_css.css" rel="stylesheet" type="text/css">
+<link href="//ws3.thsi.cn/publicb5ff8dfc/externcss/yike_article.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="body_i index_body_a all_height">
+<div class="adaptive_top all_height">
+	<div class="adaptive_con">
+				<!--用户登录信息同步脚本-->
+<script type="text/javascript" src="//s.thsi.cn/js/sso_https.min.js"></script>
+<script type="text/javascript">
+var php_uname = "";
+var ifindAuth = null;
+
+var sso = new htsso;
+var modifyUserInfo = function(name){
+	var infoStr = '<span class="wel_word left_sub_elem">欢迎您！</span>';
+	if(name != ""){
+		var uid = sso.getCookie("userid");
+		infoStr += '<a href="//t.10jqka.com.cn/'+uid+'/" target="_blank" class="u_name left_sub_elem" id="topbar_uname">'+name+'</a><a title="退出" href="javascript:;" onclick="this.href=\'//upass.10jqka.com.cn/logout?redir=\' + encodeURIComponent(\'http://\' + \'upass.\' + window.location.host.split(\'.\').slice(1).join(\'.\').split(\':\').shift() + \'/logout?redir=\' + encodeURIComponent(\'http://\' + window.location.host + \'/user/logout?redir=\' + encodeURIComponent(window.location.href)))" target="_self" rel="nofollow" class="left_sub_elem logout">[退出]</a>';
+	}else{
+		infoStr += '<a href="//upass.10jqka.com.cn/login?redir=HTTP_REFERER" onclick="javascript:mylog(\'ts|1、qs|login、w|登录、tid|static\',\'activity\',\'loginUrl\')" class="login left_sub_elem" loginType="yhzx">登录</a><a href="//upass.10jqka.com.cn/register/index/?fromapp=search';
+		if(typeof global_controller_name === "string"){
+			var app_str = "";
+			switch (global_controller_name){
+				case "stockpick":{
+					app_str = "stock";
+					break;
+				}
+				case "yike":{
+					app_str = "yike";
+					break;
+				}
+				default:{
+					app_str = "";
+					break;
+				}
+			}
+			infoStr += app_str;
+		}
+		
+		infoStr += '" class="register left_sub_elem">注册</a>';
+	}
+	$("#top_left_bar").html(infoStr);
+};
+function onSsoLogin(){
+    var escapename = sso.getCookie('escapename');
+    var uname;
+    if (escapename === null) {
+        uname = "";
+    } else {
+        uname = unescape(escapename);
+    }
+//    if(global_source != "client"){
+	
+	        modifyUserInfo(uname);
+		
+//	}
+
+    /*js前端登录信息同步*/
+	if (uname != '') {
+        window.username = username = uname;
+    } else {
+        window.username = username = '';
+    }
+    
+    if (typeof sp == 'object' && sp) {
+        sp.userid = sso.getCookie('userid');
+    }
+	//同步信息完成后 无论是否是已登录状态需要执行的额外脚本
+	if (typeof sn.afterSync === "object" && sn.afterSync !== null) {
+	    for (var i in sn.afterSync) {
+	        sn.afterSync[i]();
+	    }
+    }
+	//同步信息完成后 若是已登录状态需要执行的额外脚本
+    if (typeof window.username != 'undefined' && window.username != '') {
+	    for (var i in sp.afterLoginRender) {
+	        sp.afterLoginRender[i]();
+	    }
+    }
+}
+var sn = window.sn || {};
+sn.afterSync = sn.afterSync || {};
+
+var sp = window.sp || {};
+sp.afterLoginRender = sp.afterLoginRender || {};
+window.onload = function(){
+    onSsoLogin();
+
+    // sso同步cookie和依赖客户端本地服务的自动登录逻辑
+    (function() {
+        var _checkClient = function(){
+            var flag = false;
+            if(window.HevoCef && ("IsHevoCef" in window.HevoCef)) {
+                flag = true;
+            }
+            try {
+                external.createObject('Quote');
+                flag = true;
+            } catch (e) {
+
+            }
+            return flag;
+        };
+
+        var _10jqkaComCnReg = /\.10jqka\.com\.cn$/;
+        var is10jqka = _10jqkaComCnReg.test(window.location.hostname);
+        var iwencaiComReg = /\.iwencai\.com$/;
+        var isIwencai = iwencaiComReg.test(window.location.hostname);
+        var chromeVersionReg = /chrome\/(\d+\.\d+)/i;
+        // 版本号收集方法
+        var version = function(regex) {
+            var m = regex.exec(window.navigator.userAgent);
+            return m ? parseFloat(m[1]) : 0;
+        };
+        var chromeVersion = version(chromeVersionReg);
+        var needSso = false;
+        // 在非10jqka.com.cn域名且当前域下无登录用户信息基础条件下，客户端场景或80以下版本的Chrome内核浏览器场景中同步cookie
+        if (!sso.getCookie("userid") && !is10jqka && ((chromeVersion && chromeVersion < 80) || _checkClient())) {
+            needSso = true;
+        }
+        if (needSso) {
+            sso.login(window.location.protocol + '//' + window.location.hostname + (window.location.port == '80' || window.location.port == '' ? '' : ':' + window.location.port) + '/moreinfo/reload');
+        }
+
+        // 根据客户端服务，实现的自动登录逻辑
+        if (false && !sso.getCookie("userid") && (is10jqka || isIwencai) && window.location.protocol === "http:") {
+            var autologinUrl = "";
+            var redir = window.location.protocol + '//' + window.location.hostname + (window.location.port == '80' || window.location.port == '' ? '' : ':' + window.location.port) + '/user/auto-login';
+            if (is10jqka) {
+                autologinUrl = "//upass.10jqka.com.cn/autologin?redir="
+            } else {
+                autologinUrl = "//upass.iwencai.com/autologin?redir="
+            }
+            autologinUrl += encodeURIComponent(redir);
+            var autoIframe = document.createElement("iframe");
+            autoIframe.src = autologinUrl;
+            autoIframe.style.display = "none";
+            autoIframe.setAttribute("width","0");
+            autoIframe.setAttribute("height","0");
+            document.body.appendChild(autoIframe);
+        }
+    })();
+}
+
+</script><!--由于fixed原因产生了30px的缺失，作为占位符补充30px高度-->
+<div class="topbarFixedCon"></div>
+<!--isSyncSubscribable为是否开启收藏问句异动选股的开关标识，在js中获取并判断-->
+<div id="topbarCon" class="topbar_con clearfix yike_topbar" isSyncSubscribable='1'>
+	<!--页面顶部左侧内容--><div class="top_left_bar" id="top_left_bar"><!--页面顶部左侧内容--><span class="wel_word left_sub_elem">欢迎您！</span><a href="///login?redir=HTTP_REFERER" onclick="mylog('ts|1、qs|login、w|登录、tid|static','activity','loginUrl')" class="login left_sub_elem" logintype="yhzx">登录</a><a href="//upass.10jqka.com.cn/register/index/?fromapp=searchyike" class="register left_sub_elem">注册</a></div><!--页面顶部右侧内容--><div id="top_right_bar" class="top_right_bar"><a controller="/robot-index?" qs="pc_~soniu~others~homepage~return~new" tid="other" class="hidden sub_elem to_new_version pick_collect" id="version_change"><span class="new_index_common_icon btn_icon"></span><span class="btn_word">切换到新版首页</span></a><script>
+            // 不是IE9以下的低版本IE浏览器，需要展示切换到新版的按钮（移除默认的隐藏class）
+            (function(){
+                var ua = window.navigator.userAgent;
+                var lowerIEReg = /MSIE\s*([0-9.]+)/i;
+                var lowerIEMatchRes = ua.match(lowerIEReg);
+
+                var chromeReg = /CHROME/i;
+                var isChrome = chromeReg.test(ua);
+                if (!lowerIEMatchRes || parseInt(lowerIEMatchRes[1]) >= 10) {
+                    $("#version_change").removeClass("hidden");
+                }
+            })();
+            </script><!--根据action判断是否需要展示对应的返回首页链接内容--><a class="sub_elem back_index_link" href="/stockpick?qs=return_stock" target="_self">i问财首页</a><span class="separator">|</span><span id="top_bar_info_link_con"></span><span id="top_bar_yike_link_con"></span><a class="sub_elem msgconsule_link" href="/msgconsule?qs=pc_~soniu~info~all~homepage~enter&tid=msgzg" target="_self" id="top_bar_msgconsule_link"><span class="btn_icon"></span><span class="btn_word ">消息监控</span></a><span class="separator">|</span><a class="sub_elem tcwj_link" href="/extract?cs=wh" target="_self"><span class="btn_icon"></span><span class="btn_word ">题材挖掘</span></a><span class="separator">|</span><a class="sub_elem znxg_link" href="/stockpick?tid=stockpick&ts=1&qs=pc_~soniu~stock~stock~znxg~topbar&allow_redirect=false&zhineng=opened" target="_self"><span class="btn_icon"></span><span class="btn_word ">智能查找</span></a><span class="separator">|</span><a class="sub_elem tzcl_link" href="//backtest.10jqka.com.cn/backtest/app.html#/strategysquare?qs=backtest_square" target="_self"><span class="btn_icon"></span><span class="btn_word ">投资策略</span></a><span class="separator">|</span><a class="sub_elem clhc_link" href="//backtest.10jqka.com.cn/backtest/app.html#/backtest?qs=backtest_menu2" target="_self"><span class="btn_icon"></span><span class="btn_word ">策略回测</span></a><span class="separator">|</span><a href="/yuqingmonitor/query-favorites?type=0&qs=favorite_entry" target="_self" id="q_collect" class="sub_elem q_collect login"><em class="btn_icon"></em><span class="btn_word ">我的策略</span><em class="q_num hidden">&nbsp;</em></a><span class="separator">|</span><a class="sub_elem gmxx_link" href="//t.10jqka.com.cn/school/home/index/?qs=pc_~soniu~stock~stock~gmxx~topbar" target="_self"><span class="btn_icon"></span><span class="btn_word ">股民学校</span></a><span class="separator">|</span><a href="/helpcenter?qs=Helpcenter_clickin" class="sub_elem help_center" id="help_center" target="_self"><span class="btn_icon"></span><span class="btn_word ">意见反馈</span></a><span class="separator">|</span></div>
+</div>
+<!--[if IE 8]><div class="clear"></div><![endif]-->
+
+<script>
+    global_topBarCfg = {"channelConfig":{"DataExtraction":{"isHidden":false},"DataRobot":{"isHidden":true},"MsgConsule":{"isHidden":false},"Extract":{"isHidden":false},"TraceBack":{"isHidden":false},"QueryFavorite":{"isHidden":false,"queryType":0},"HelpCenter":{"isHidden":false},"School":{"isHidden":false},"MindGo":{"isHidden":false},"SmartStocks":{"isHidden":false,"isNew":false},"Contribution":{"isHidden":false},"Viewswf":{"isHidden":false},"InfoSearch":{"isHidden":false},"YikiFinance":{"isHidden":false},"WencaiIndex":{"isHidden":false}},"nowChannel":"Yike","isIndex":false,"queryType":"stock","childChannel":"yike"};
+    isDirectRefactor = 1;
+</script>
+<script type="text/javascript">
+    
+    var consoleFuntionsNoop = function(){};
+    var console = window['console'] || {
+        "debug": consoleFuntionsNoop,
+        "error": consoleFuntionsNoop,
+        "info": consoleFuntionsNoop,
+        "log": consoleFuntionsNoop,
+        "warn": consoleFuntionsNoop,
+        "dir": consoleFuntionsNoop,
+        "dirxml": consoleFuntionsNoop,
+        "table": consoleFuntionsNoop,
+        "trace": consoleFuntionsNoop,
+        "group": consoleFuntionsNoop,
+        "groupCollapsed": consoleFuntionsNoop,
+        "groupEnd": consoleFuntionsNoop,
+        "clear": consoleFuntionsNoop,
+        "count": consoleFuntionsNoop,
+        "assert": consoleFuntionsNoop,
+        "markTimeline": consoleFuntionsNoop,
+        "profile": consoleFuntionsNoop,
+        "profileEnd": consoleFuntionsNoop,
+        "timeline": consoleFuntionsNoop,
+        "timelineEnd": consoleFuntionsNoop,
+        "time": consoleFuntionsNoop,
+        "timeEnd": consoleFuntionsNoop,
+        "timeStamp": consoleFuntionsNoop,
+        "context": consoleFuntionsNoop,
+        "memory": consoleFuntionsNoop
+    };
+    $("#top_right_bar").on("click",".pick_collect",function () {
+        var qs = sn.util.getUrlParams('qs');
+        qs = qs || $(this).attr("qs");
+        var tid = $(this).attr("tid");
+        mylog('ts|1、qs|'+qs+'、tid|'+tid, 'pick', '');
+        TA.log({ id: 'iwencai_topbar.jumpnew'});
+        var href = '/unifiedwap/home/index?qs=' + qs;
+
+        // 登录用户 增加切换到新版的选择存储逻辑
+        try {
+            var userid = sn.util.getCookie('userid');
+            if (userid) {
+                $.ajax({
+                    url: "/gateway/userstore/iwc/userinfo/pc/version/save/",
+                    type: "POST",
+                    data: JSON.stringify({
+                        user_id: String(userid),
+                        version: "1",
+                    }),
+                    contentType: "application/json",
+                    complete: function() {
+                        window.location.href = href;
+                    }
+                });
+            }
+        } catch(e) {
+
+        }
+
+        setTimeout(function () {
+            window.location.href = href;
+        },1000);
+    });
+    
+</script>
+        
+<div class="suspend_top_box" id="suspend_top_box">
+    <div class="container">
+        <div class="container2">
+            <div class="toplogo" title="问财"></div>
+            <div class="clearfix">
+                <div class="topsearch">
+                    <input type="text" maxlength="500" autocomplete="off" id="topword" class="toptextinput" name="w" value="">
+                    <div id="topword_suggest_wrap" class="topword_suggest_wrap pub_suggest_con"><ul class="pub_suggest_list"></ul></div>
+                </div>
+                <div class="topbtns">
+                    <div class="topsearchbtn scrollBarBtn" link="/stockpick/search?ts=1&f=1&qs=stockhome_topbar_click"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="topnav_border">
+	<div class="topnav_index topnav_yike clearfix topnav_border_orange">
+		<a href="/yike/?qs=return_pedia" class="inner_logo"></a>
+		<div class="topnav" id="topnavCon">
+	<div id="sn_search_module" class="snsearch clearfix">
+		<!--根据域名配置判断是否输出频道列表-->
+		<ul class="channel_list clearfix" id="bar" >
+																					
+                        
+                                                
+									
+                                                                                                                                                                                                                                                                                                                                                                                                                            			              									<li class="channel_item " id="info_bar"><a href="/search?tid=info&ts=1&qs=result_channel"><span class="new_channel_word">信息</span></a></li>
+                                            
+			              									<li class="channel_item " id="stockpick_bar"><a href="/stockpick?tid=stockpick&ts=1&qs=result_channel"><span class="new_channel_word">股票</span></a></li>
+                                            
+			              									<li class="channel_item " id="fund_bar"><a href="/stockpick/fund?tid=stockpick&ts=1&qs=result_channel"><span class="new_channel_word">基金</span></a></li>
+                                            
+			              									<li class="channel_item " id="hkstock_bar"><a href="/stockpick/hkstock?tid=stockpick&ts=1&qs=result_channel"><span class="new_channel_word">港股</span></a></li>
+                                            
+			              									<li class="channel_item " id="usstock_bar"><a href="/stockpick/usstock?tid=usstock&ts=1&qs=result_channel"><span class="new_channel_word">美股</span></a></li>
+                                            
+			              									<li class="channel_item " id="threeboard_bar"><a href="/stockpick/threeboard?tid=threeboard&ts=1&qs=result_channel"><span class="new_channel_word">新三板</span></a></li>
+                                            
+			              									<li class="channel_item " id="bond_bar"><a href="/stockpick/bond?tid=bond&ts=1&qs=result_channel"><span class="new_channel_word">债券</span></a></li>
+                                            
+			              				                                                                        <li class="channel_item channel_more  snli01" id="more" >
+                                <a>
+                                    <span>百科</span>
+                                    <span class="icon_more"></span>
+                                </a>
+                                <ul class="channel_list_more clearfix" id="channel_more_list" style="width: 200px;*width: 205px;" >
+                                    <li class="channel_item " id="insurance_bar"><a class="more_a " href="/stockpick/insurance?tid=insurance&ts=1&qs=result_channel"><span class="new_channel_word">保险</span></a></li>
+                                             				                            
+			              				                                                                        <li class="channel_item " id="futures_bar"><a class="more_a " href="/stockpick/futures?tid=futures&ts=1&qs=result_channel"><span class="new_channel_word">期货</span></a></li>
+                                             				                            
+			              				                                                                        <li class="channel_item snli01 " id="yike_bar"><a class="more_a " href="/yike?tid=yike&ts=1&qs=result_channel"><span class="new_channel_word">百科</span></a></li>
+                                             				                            
+			              				                                                                                <li class="channel_item " id="law_bar"><a class="more_a " href="/stockpick/law?tid=law&ts=1&qs=result_channel"><span class="new_channel_word">法律法规</span></a></li>
+                                </ul>
+                            </li>
+                                             				                            
+								</ul>
+		<!-- insearch start -->
+									<form name="f" action="/yike/search" id="searchform" jumpType="auto" class="snform clearfix" method="get" autocomplete="off" >
+			<div class="clearfix relative">
+									<script>
+						
+						if(typeof(global_source) != "undefined" && global_source != ""){
+							document.write('<input type="hidden" name="source" value="'+global_source+'"/>');
+						}
+						
+					</script>
+								<input type="hidden" name="typed" value="0" />
+				<input type="hidden" name="preParams" value=""/>
+				<input type="hidden" name="ts" value="1" />
+				<input type="hidden" name="f" value="1" />
+				<input type="hidden" name="qs" value="1" />
+				<input type="hidden" name="selfsectsn" value="" />
+				<input type="hidden" name="querytype" value="" />
+								
+				<!-- start：知识图谱隐藏字段 -->
+				<input type="hidden" name="searchfilter" value="" />
+
+				<!-- end：知识图谱隐藏字段 -->
+
+				<!--tid隐藏域的内容保存了搜索的目标频道，默认是当前$tid变量，如果未定义则是信息频道，频道切换时需要修改此隐藏域的值-->
+				<input type="hidden" id="tid" name="tid"  value="info" />
+				<div class="input_con insearch" id="focusin">
+											<div class="blk_text"><input maxlength="1024" autocomplete="off" type="text" class="search_input" id="auto" name="w" value="" defaultvalue="" placeholder="请输入词条名" /></div>
+										<p class="hidden">
+						<label>kIndex</label>
+						<input class="hidden" type="text" id="keyIndex" value="-1" />
+					</p>
+					<p class="hidden">
+						<label>rev</label>
+						<input class="nodisplayd" type="text" id="sortIndex" />
+					</p>
+				</div>
+				<input type="submit" class="search_btn" value="" id="qs-enter"/>
+													<input type="hidden" name="isdetail" value="1" />
+										<input type="submit" id="search_term_btn" class="yike_form_btn search_term" value="搜索词条" />
+                    <span class="fl lh36 ml20"><a class="aDBlue" id="teach_learn_shares" href="/school?qs=baike_school_02" target="_blank">教你学炒股</a></span>
+				
+				<!--选股频道需要的扩展表单元素-->
+											</div>
+								</form>
+	</div>
+					</div>	</div>
+</div>		
+				<div class="yike_main_con">
+						<div class="hidden_box" style="display:none;">
+  <input type="hidden" name="article_uid" value=""/>
+  <input type="hidden" name="article_id" value=""/>
+  <input type="hidden" name="isPingJia" value=""/>
+  <input type="hidden" name="article_pingjia_times" value=""/>
+  <input ty[e="hidden" name="login_user_info" value=""/>
+</div>
+<div class="yike_nav_bar nn">
+	<div class="left_bar clearfix">
+		<a href="/yike/" class="index_btn " target="_self" id="qs-home">首页</a>
+        <a href="/yike/article-class" class="article_btn js-selected" target="_self" id="qs-ctfl">词条分类</a>
+                		<div class="message_btn " id="message_btn" title="消息">
+          <span class="" target="_self" id="qs-new-message"><em class="icon yk_pub_bg"></em><em class="unread" id="unread_count"></em></span>
+          <div class="nav_message_box" id="nav_message_noread">
+			<ul class="list" id="message_noread">
+			  			
+			</ul>
+			<a href="/yike/message?p=1" target="_self" class="m_c_link"><p class="m_c_line" id="qs-all-message">查看全部消息</p></a>
+		  </div>
+        </div>
+		<a href="/yike/info-center" class="user_center_btn yike_need_login " target="_self" id="qs-info-center" title="个人中心"><em class="icon yk_pub_bg"></em></a>
+	</div>
+	<a href="/yike/createindex" class="create_btn yike_need_login" target="_self" id="qs-create-btn">创建词条</a>
+	</div>			
+			            <div class="yk_article_class_con clearfix">
+  <div class="g-head">
+        <span class="tabItem" treeId="2"><em>人物</em></span>
+        <span class="tabItem" treeId="1"><em>知识</em></span>
+        <span class="tabItem" treeId="3"><em>组织</em></span>
+      </div>
+  <div class="g-mn">
+            <div class="conItem">
+                  <div class="blk clearfix">
+            <a name="category_2489" id="category_2489"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2489" class="ln">非营利组织人物</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">G</p>
+                                                  <p><a href="article-class-list?tagId=2484" class="ln">高校人物（12）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">N</p>
+                                                  <p><a href="article-class-list?tagId=2674" class="ln">诺奖得主（1）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">Z</p>
+                                                  <p><a href="article-class-list?tagId=1461" class="ln">重要政治人物（7733）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2488" id="category_2488"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2488" class="ln">营利组织人物</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">J</p>
+                                                  <p><a href="article-class-list?tagId=2644" class="ln">境外境内投资者（2）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">N</p>
+                                                  <p><a href="article-class-list?tagId=1791" class="ln">牛散&私募大佬（27）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">S</p>
+                                                  <p><a href="article-class-list?tagId=2499" class="ln">上市公司人物（1）</a></p>
+                                </div>
+                                    </div>
+    	    	</div>
+            <div class="conItem">
+                  <div class="blk clearfix">
+            <a name="category_2583" id="category_2583"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2583" class="ln">保险管理</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">B</p>
+                                                  <p><a href="article-class-list?tagId=12" class="ln">保险（470）</a></p>
+                                  <p><a href="article-class-list?tagId=159" class="ln">保险常识（558）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2581" id="category_2581"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2581" class="ln">法学</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">F</p>
+                                                  <p><a href="article-class-list?tagId=1969" class="ln">法律法规（31）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2584" id="category_2584"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2584" class="ln">风险管理</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">F</p>
+                                                  <p><a href="article-class-list?tagId=1949" class="ln">风险类知识（243）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2580" id="category_2580"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2580" class="ln">管理学</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">G</p>
+                                                  <p><a href="article-class-list?tagId=2616" class="ln">公共管理学（382）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2576" id="category_2576"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2576" class="ln">会计学</a></p>
+                      </div>
+    	          <div class="blk clearfix">
+            <a name="category_2579" id="category_2579"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2579" class="ln">金融学</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">J</p>
+                                                  <p><a href="article-class-list?tagId=2211" class="ln">金融知识（709）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2578" id="category_2578"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2578" class="ln">经济学</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">C</p>
+                                                  <p><a href="article-class-list?tagId=2215" class="ln">成本（78）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">J</p>
+                                                  <p><a href="article-class-list?tagId=1833" class="ln">经济知识（381）</a></p>
+                                  <p><a href="article-class-list?tagId=1967" class="ln">经济（7）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2582" id="category_2582"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2582" class="ln">其他互联网知识</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">W</p>
+                                                  <p><a href="article-class-list?tagId=2265" class="ln">网红产品&互联网产品（1）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">X</p>
+                                                  <p><a href="article-class-list?tagId=1785" class="ln">行业及产品（8）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">Y</p>
+                                                  <p><a href="article-class-list?tagId=2237" class="ln">药品文件（1）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2577" id="category_2577"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2577" class="ln">市场营销学</a></p>
+                      </div>
+    	    	</div>
+            <div class="conItem">
+                  <div class="blk clearfix">
+            <a name="category_2512" id="category_2512"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2512" class="ln">非营利</a></p>
+                                          <div class="fl ibox">
+                                <p class="letter">J</p>
+                                                  <p><a href="article-class-list?tagId=1957" class="ln">机构协会（308）</a></p>
+                                  <p><a href="article-class-list?tagId=1787" class="ln">交易所（105）</a></p>
+                                </div>
+                                                        <div class="fl ibox">
+                                <p class="letter">Y</p>
+                                                  <p><a href="article-class-list?tagId=2568" class="ln">医疗和社区工作（24）</a></p>
+                                </div>
+                                    </div>
+    	          <div class="blk clearfix">
+            <a name="category_2511" id="category_2511"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2511" class="ln">营利</a></p>
+                      </div>
+    	          <div class="blk clearfix">
+            <a name="category_2510" id="category_2510"></a>
+              <p class="ttl"><a href="article-class-list?tagId=2510" class="ln">政府</a></p>
+                      </div>
+    	    	</div>
+      </div>
+</div>            
+		</div>
+	</div>
+</div>
+<div id="footbarCon" class="footbar_con">
+		<div class="fl pl20"><a href="javascript:void(0);"  onclick="javascript:sn.util.setHomepage('//www.iwencai.com/');" class="aGray">设问财为首页</a></div>
+	<div class="fr pr20">&copy; 2022 浙江核新同花顺 浙ICP备09003598号</div>
+	</div><div id="all_favorit_box" class="all_favorit_box hidden">
+	<div class="total_con">最近收藏问句(<em id="all_favorit_num"></em>)</div>
+	<ul id="all_favorit_list" class="all_favorit_list nn aDBlue"></ul>
+	<div class="f_page_box page_bar" id="f_page_box"></div>
+</div>
+<script language="javascript">
+var global_shunt = "";
+var global_controller_name = "yike";
+var global_action_name = "article-class";
+var global_svnVersion = "b5ff8dfc";
+var global_staticBaseUrl = "/";
+var global_staticHostC = "//ws1.thsi.cn";
+var global_replyTipFlag = "";	//是否有新回复标识
+
+var pickComplementApi = "http\x3A\x2F\x2Fsearch.10jqka.com.cn\x2Fsolr\x2Fqueans\x2Fqueryhint";
+
+var username = '';
+
+
+
+</script>
+
+	<script src="//ws2.thsi.cn/externjsb5ff8dfc/yike.js" type="text/javascript"></script>
+			<script src="//ws2.thsi.cn/externjsb5ff8dfc/yike_article-class.js" type="text/javascript"></script>
+	
+<!--所有页面均需要覆盖的CBAS埋点-->
+<script src="//s.thsi.cn/cb?/js/;ta_https_1.2.min.js;pa.min.js"></script>
+
+<script type="text/javascript">
+var eve_id= "iwencai_yike_category";
+var f_id= "iwencai_yike";
+var ex = "";
+var allfid = "";
+
+
+var sn = sn || {};
+sn.util = sn.util || {};
+sn.util.getScreenZoomRatio = sn.util.getScreenZoomRatio || function(){return 1000};
+if($.trim(eve_id) !== "" && typeof eve_id === "string" && eve_id !== null){
+    if(allfid) {
+        f_id = allfid;
+    } else if($.trim(f_id) !==""&& typeof f_id ==="string" && f_id !== null){
+        f_id = "iwencai_pc" +"," + f_id + ","+ "info_gather";
+    }else{
+        f_id = "iwencai_pc"+ ","+ "info_gather";
+    }
+    var TAlogObj = {id : eve_id ,fid : f_id};
+    TAlogObj.psct = '0';
+    try {
+        TAlogObj.psc = sn.util.getScreenZoomRatio();
+    } catch(e) {}
+
+    if(typeof global_pa_start_time === "number"){
+        PA.setStartTime(global_pa_start_time);
+        PA.init(TAlogObj);
+    }else{
+        TA.log(TAlogObj);
+    }
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,1163 @@
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>国泰君安开户流程_网上开户_国泰君安怎么开户_国泰君安开户官网</title>
+<meta name="description" content="国泰君安为您详细解答：国泰君安开户需要准备哪些东西？网上开户需要哪些步骤？网上自助开户支持转户吗？转户需要哪些步骤等问题。"/>
+<script type="text/javascript" src="/kh/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/kh/js/fastline/jquery.function.js"></script>
+<script type="text/javascript" src="/kh/js/csswebutf.js"></script>
+<script type="text/javascript" src="/kh/js/setTab.js"></script>
+<script type="text/javascript" src="../js/jquery.autocomplete.min1.js"></script>
+<link type="text/css" rel="stylesheet" href="../css/jquery.autocomplete.css" />
+<link href="/kh/css/busimanage/global1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	var gtja_ctx = "/kh";
+	var originalSemQueryString = 'null';
+
+	$(function(){		
+		if (originalSemQueryString.indexOf("source=sem") != -1) {
+			$("[href$='/kh/busimanage/index.jsp']").attr("href",originalSemQueryString);
+		}
+	})
+
+  
+</script>
+<style type="text/css">
+.help-box .p1 {
+    font-size: 14px;
+    padding: 15px 0;
+}
+	
+.text1 {
+    color: #050505;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 0;
+}
+#y1 p{
+font-size: 14px;
+}
+#y6 p{
+font-size: 14px;
+}
+.yhlist {
+    margin-top: 30px;
+}
+ol, ul {
+    list-style: none outside none;
+}
+
+.fn-clear:after {
+    clear: both;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    visibility: hidden;
+}
+.fn-clear {
+}
+
+</style>
+<script type="text/javascript" src="/kh/js/fastline/share.js"></script>
+<script type="text/javascript">
+var URLConstant = 'http://www.gtja.com';
+$(document).ready(function(){
+	var mobile='';
+	
+	$.send(
+		gtja_ctx + "/qptkhAction.do",
+		{method:"getProvince",mobile:mobile,provinceId:$("#provinceIdHid").val(),employeeId:$("#employeeIdHid").val()},
+		function(data){
+			if(data.cssweb_type=="success"){
+				if(data.listProvince){
+					princeListSt = data.listProvince;
+					var optStrPro = "";
+			  		var optStrBra = "";
+			  		for(var j = 0; j < princeListSt.length; j++){
+				       	var pro = princeListSt[j];
+				       	optStrPro = "<a href='#' onclick='changeTagName(this.name,this.id)' id='"+pro.provinceId+"' name='"+pro.ext3+"'>"+pro.ext3+"</a>";
+				       	jQuery("#provinceList").append(optStrPro);
+			 		}
+				}
+				if(data.listBranch){
+					var branch = $("#queryBranch");
+					branchListSt = data.listBranch;
+					branch.autocomplete(branchListSt, {
+			        	minChars: 0,
+			        	matchContains: true,
+			        	autoFill: false,
+			        	width: 249,
+			        	max: branchListSt.length,
+		                 	formatItem: function(row, i, max) {
+			            	return row.branchName;
+			        	},
+			        	formatMatch: function(row, i, max) {
+			            	return row.id + row.branchName;
+			        	},
+			        	formatResult: function(row) {
+			            	return row.branchName;
+			        	}
+			        }).result(function(event, item) {
+			        	jQuery("#branchNameHid").val(item.id);
+			        });
+				}
+			}else{
+				showMsg(data.cssweb_msg);
+				
+			}
+		},function(data){
+		},"json");
+
+	$("#yyMap").click(function(){
+		var url = URLConstant+'/gygt/branch_info.jsp?branchId='+$("#branchId1").val()+'&target=info';
+		window.open(url);
+	});
+});
+
+function changeTagName(name,value){
+	SwitchNews('y',2,3,'cur','');
+	$("#tagy1").html(name);
+	var branchStr;
+	if(branchListSt !=null && branchListSt.length>0){
+		$("#getyyb").empty();
+		for(var i=0;i<branchListSt.length;i++){
+			if(value==branchListSt[i].provinceId){
+				branchStr = "<li id='"+branchListSt[i].id+"' onclick='showBranchDetail(this.id)'><a href='#'>"+branchListSt[i].branchName+"</a></li>"
+				$("#getyyb").append(branchStr);
+			}
+		}
+	}
+}
+
+function showBranchDetail(value){
+	SwitchNews('y',3,3,'cur','');
+	if(branchListSt !=null && branchListSt.length>0){
+		for(var i=0;i<branchListSt.length;i++){
+			if(branchListSt[i].id==value){
+				$("#thBranchName").html(branchListSt[i].branchName);
+				$("#thBranchAddr").html(branchListSt[i].branchAddress);
+				$("#thZxTel").html(branchListSt[i].branchZphone);
+				$("#thWtTel").html(branchListSt[i].branchWphone);
+				$("#thXwh").html(branchListSt[i].branchSeatnum);
+				$("#thPrinceId").val(branchListSt[i].provinceId);
+				$("#thBranchId").val(branchListSt[i].id);
+				$("#thBranchNo").val(branchListSt[i].branchNo);
+				$("#thBrhId").val(branchListSt[i].brhId);
+			}
+		}
+	}		
+	$("#branchId1").val(value);
+}
+
+function showBackName(){
+	$("#tagy1").html("选择地区");
+}
+
+function changeItem(){
+	SwitchNews('y',2,3,'cur','');
+	var branchNameLike = jQuery("#queryBranch").val();
+	if(branchListSt !=null && branchListSt.length>0){
+		$("#getyyb").empty();
+		for(var i=0;i<branchListSt.length;i++){
+			if(branchListSt[i].branchName.indexOf(branchNameLike)>-1){
+				branchStr = "<li id='"+branchListSt[i].id+"' onclick='showBranchDetail(this.id)'><a href='#'>"+branchListSt[i].branchName+"</a></li>"
+				$("#getyyb").append(branchStr);
+			}
+		}
+	}
+}
+</script>
+	
+</head>
+
+<body>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/kh/js/fastline/share.js"></script>
+<script type="text/javascript" src="/kh/js/fastline/share1.js"></script>
+<script src="/kh/js/busimanage/excanvas.js" type="text/javascript"></script>
+<script src="/kh/js/busimanage/qrcode.js" type="text/javascript"></script> 
+<script src="/kh/js/busimanage/jquery.qrcode.js" type="text/javascript"></script>
+	
+	
+	
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+  			var hm = document.createElement("script");
+  			hm.src = "https://hm.baidu.com/hm.js?1e16ae6e18b3a1899ecb3912c5424661";
+ 			 var s = document.getElementsByTagName("script")[0]; 
+ 			 s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	
+<script type="text/javascript">
+var _py = _py || [];
+_py.push(['a', 'Iy..7dZbbtBpfOcniVONGUQLoP']);
+_py.push(['domain','stats.ipinyou.com']);
+_py.push(['e','']);
+-function(d) {
+var s = d.createElement('script'),
+e = d.body.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e),
+f = 'https:' == location.protocol;
+s.src = (f ? 'https' : 'http') + '://'+(f?'fm.ipinyou.com':'fm.p0y.cn')+'/j/adv.js';
+}(document);
+</script>
+<noscript><img src="//stats.ipinyou.com/adv.gif?a=Iy..7dZbbtBpfOcniVONGUQLoP&e=" style="display:none;"/></noscript>
+	
+	
+<script type="text/javascript">
+(function() {
+    window._CiQ10890 = window._CiQ10890 || [];
+    window._CiQ10890.push(['_cookieUseRootDomain', true]);
+    var c = document.createElement('script');
+    c.type = 'text/javascript';
+    c.async = true;
+    c.charset = 'utf-8';
+    c.src = '//collect.cn.miaozhen.com/ca/10890';
+    var h = document.getElementsByTagName('script')[0];
+    h.parentNode.insertBefore(c, h);
+})();
+function mztrack(button){
+    window._CiQ10890 = window._CiQ10890 || [];
+    window._CiQ10890.push(['_trackEvent', {
+        type: 1,
+        labels: [
+            {"按钮名称": button }
+        ],
+        values: [
+            {"数量": 1 }
+        ]
+    }]);
+    
+    window.CClickiV3 && window.CClickiV3[10890] && window.CClickiV3[10890]._flushObserver(function(){});
+};
+</script>
+<noscript>
+<link href="//collect.cn.miaozhen.com/refer/collect?i=10890&v=13922245942&pu=http%3A//%28NoScriptPageviews%29&pt=NoScriptPageviews&ru=http%3A//%28NoScriptClients%29&csh=1000&csw=1000&css=10" rel="stylesheet" type="text/css" />
+</noscript>
+
+
+<script>
+function pyRegisterCvt(){
+
+}
+
+</script>
+<div id="topNav">
+ <div class="w1000 navInner">
+   <div class="navRight" id="top1" style="display:none">
+   分享到
+     <a href="#" onclick="mztrack('首页-新浪');Share.sina('亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com。');return false; "class="sianwb" rel="nofollow">新浪微博</a>
+     <a href="#" onclick="mztrack('首页-QZONE');Share.qzone('亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com。');return false; " class="qzone" rel="nofollow">QQ空间</a>
+     <a href="#" onclick="mztrack('首页-QQ');Share.qq('亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com。');return false;" class="qq" rel="nofollow">QQ分享</a>
+     <a href="#" class="wx" onclick="mztrack('首页-微信');Effect.openwin('shareWX');" rel="nofollow">微信</a>
+	 <a href="#" onclick="mztrack('首页-人人网');Share.renren('亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com。');return false;" class="renren" rel="nofollow">人人网</a>
+	 <a href="#" onclick="mztrack('首页-腾讯');Share.qqweibo('亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com。');return false;" class="txwb" rel="nofollow">腾讯微博</a>
+   </div>
+   <div class="navRight" id="top2" style="display:none">
+   分享到
+  	<a href="#" onclick="mztrack('首页-新浪');Share1.sina(' 亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com?shareId=null%26flag=sina  ','kh.gtja.com?shareId=null%26flag=sina','http://www.gtja.com/expressaccount/shouye.jpg' );return false;" class="sianwb" rel="nofollow">新浪微博</a>
+	 <a href="#" onclick="mztrack('首页-QZONE');Share1.qzone(' 亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com?shareId=null&flag=qzone  ','kh.gtja.com?shareId=null&flag=qzone','http://www.gtja.com/expressaccount/shouye.jpg');return false;" class="qzone" rel="nofollow">QQ空间</a>
+	 <a href="#" onclick="mztrack('首页-QQ');Share1.qq(' 亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com?shareId=null&flag=qq  ','kh.gtja.com?shareId=null&flag=qq','http://www.gtja.com/expressaccount/shouye.jpg');return false;" class="qq" rel="nofollow">QQ分享</a>
+	 <a href="#" class="wx" id="wxtop" onclick="mztrack('首页-微信');" rel="nofollow">微信</a>
+	 <a href="#"  onclick="mztrack('首页-人人网');Share1.renren(' 亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com?shareId=null&flag=renren  ','kh.gtja.com?shareId=null&flag=renren','http://www.gtja.com/expressaccount/shouye.jpg');return false;" class="renren" rel="nofollow">人人网</a>
+	 <a href="#" onclick="mztrack('首页-腾讯');Share1.qqweibo(' 亲，我刚刚体验了国泰君安证券新推出的“网上开户”功能，足不出户就可办理股票基金理财账户，确实方便快捷，隆重推荐哦！国泰君安网上开户的网址是 kh.gtja.com?shareId=null&flag=qqweibo  ','kh.gtja.com?shareId=null&flag=qqweibo','http://www.gtja.com/expressaccount/shouye.jpg');return false;" class="txwb" rel="nofollow">腾讯微博</a>		  
+   </div>
+ </div>
+</div>
+
+<div id="ui-header" class="w1000">
+  <div class="logo fl">
+    <a href="http://www.gtja.com" target="_blank"><img onclick="mztrack('首页-国泰官网')" src="/kh/pic/busimanage/gtjalogo.jpg" /></a>
+	<a href="/kh/busimanage/index.jsp"><img onclick="mztrack('首页-网上开户')" src="/kh/pic/busimanage/gtjaopenlogo.jpg" /></a>
+  </div>
+  <div class="headerRight fr">
+  <ul style="cursor:hand;">
+	  <li class="none relative"  id="toptips">
+	  	<p id="erwm" style=" display:none">
+	  	
+	  		
+	  	</p>
+      	<span class="phone"><a href="#" style="text-decoration: none;color:#666" onclick="mztrack('首页-手机开户')">手机开户</a></span>
+      </li>
+	  <li >
+	  	<span class="serivce" style="cursor:pointer;"><a href="#" style="text-decoration: none;color:#666;" onclick="mztrack('首页-客服热线')" >客服热线</a></span>
+	  </li>
+	  <li>
+	  	
+	  	<span class="consult" style="background:none">
+	  		<a href="#" onclick="window.open('http://www.gtja.com/share/wyzx.jsp?isJudge=true','_blank','scrollbars=yes,resizable=1,modal=false,alwaysRaised=yes');return false" style="display:inline; margin:0"><img src="/kh/pic/busimanage/headico1.gif" /></a>
+	  		<a href="http://b.qq.com/webc.htm?new=0&sid=800095521&eid=2188z8p8p8p808R8R8K8q&o=&q=7" target="_blank" style="display:inline; margin:0"><img src="/kh/pic/busimanage/headico2.gif" /></a>
+	  		
+	  			<div class="blank2"></div><a href="#" style="display:inline; margin:0;text-decoration: none;color:#666" onclick="mztrack('首页-在线咨询')">在线咨询</a></span>
+	  </li>
+	  <li  onclick="czzn();">
+	  	<span class="help" style="cursor:pointer;"><a href="#" style="text-decoration: none;color:#666" onclick="mztrack('首页-开户帮助')">开户帮助</a></span>
+	  </li>
+	</ul>
+  </div>
+</div>
+<div class="popup popup2" id="popopxtsweixin" style="display:none; ">
+	<div class="popupTit " onmousedown="Effect.Mdrag('popopxtsweixin',event)">
+		<span onclick="Effect.openwin('popopxtsweixin');"></span>分享到微信朋友圈
+	</div>
+	<div class="popupCon">
+	 		<p class="blank20"></p>
+	  		<div class="sptc">
+	    		
+	    			<div id="div_divtop" style="margin-left: 60px;" ></div> 
+			  	
+	  		</div>
+	    	<p class="blank20"></p>
+	   	<div class="sptc-footer">
+	   		<p style="color: red;">打开微信，点击底部的“发现”，使用 “扫一扫” 即可将网页分享到我的朋友圈。</p>
+	   	</div>
+	</div>
+</div>
+<div class="popup popup2" id="shareWX" style="display:none; ">
+	<div class="popupTit " onmousedown="Effect.Mdrag('shareWX',event)">
+		<span onclick="Effect.openwin('shareWX');"></span>分享到微信朋友圈
+	</div>
+	<div class="popupCon">
+	 		<p class="blank20"></p>
+	  		<div class="sptc">
+	    		<p id="erwm1">
+			  		<img src="/kh/pic/busimanage/erwm1.png" style="margin-left: 40px;" />
+			  	</p>
+	  		</div>
+	    	<p class="blank20"></p>
+	   	<div class="sptc-footer">
+	   		<p style="color: red;">打开微信，点击底部的“发现”，使用 “扫一扫” 即可将网页分享到我的朋友圈。</p>
+	   	</div>
+	</div>
+</div>
+
+<div class="popup popup2" id="autoPromptMsg" style="display:none; ">
+	<div class="popupTit" onmousedown="Effect.Mdrag('autoPromptMsg',event)"><span id="closeBtn"></span>温馨提示</div>
+	<div class="poputCon">
+  	  <p class="blank20"></p>
+	  <p align="center">亲，您是不是在开户中遇到了问题？可以联系客服进行解决哦</p>
+	  <p class="blank20"></p>
+	  <p align="center">
+	  	<a href="#" class="btn03" style="margin-left:10px;position:relvtive" onclick="window.open('http://www.gtja.com/share/wyzx.jsp?isJudge=true','_blank','scrollbars=yes,resizable=1,modal=false,alwaysRaised=yes');return false">联系客服</a>
+	  </p>
+	  <p class="blank20"></p>
+	</div>
+</div>
+<script type="text/javascript">
+ 	var qqkf = '800095521'
+      $(function(){
+	   $('#toptips').mouseover(function(){
+		$('#erwm').css('display','block');
+	   })
+	 })
+	 
+	 $(function(){
+	   $('#toptips').mouseout(function(){
+		$('#erwm').css('display','none');
+	   })
+	   var indexurl=window.location.pathname;
+	   var obj=["index.jsp","khzh.jsp","sfcg_czzy.jsp","cjwt.jsp","tzzjy.jsp","khxy.jsp","zscz.jsp"];
+		  var ss=isCurrentPage(obj,indexurl);
+		  if(ss == "-1"){
+		  	$("#top2").css('display','block');
+		  	$("#top1").css('display','none');
+		  }else{
+		  	$("#top1").css('display','block');
+		  	$("#top2").css('display','none');
+		  }
+		$('#wxtop').click(function(){
+			$('#div_divtop').html('');
+			$("#div_divtop").qrcode('kh.gtja.com?shareId=null&flag=weixin');
+			Effect.openwin('popopxtsweixin');
+		})
+		var shoujikaihuurl = 'https://i.gtja.com/m/sem/indexty.jsp';
+		if(typeof document.createElement('canvas').getContext !== 'undefined'){
+			$('#erwm').qrcode({width:79,height:77,correctLevel:0,text:shoujikaihuurl});
+		}else{
+			$('#erwm').qrcode({width:231,height:231,correctLevel:0,text:shoujikaihuurl,render:'table'});
+		}
+		
+	 })	
+	function czzn(){
+		
+		window.open ('/kh/busimanage/khzh.jsp','newwindow','height=1000,width=1200,top=0,left=0,toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes,location=no,status=no') 
+	}
+	
+	
+	function isCurrentPage(obj,currentPage){
+		for(var i=0;i<obj.length;i++){
+			if(currentPage.indexOf(obj[i]) != "-1"){
+				return "find page";
+			}
+		}
+		return "-1";
+	}
+	var branchno=null;
+ 	var countTime = 0;
+ 	var chkType5CountTime = 0;
+ 	function autoPromptTimeCount(limitTime){
+ 		if(branchno != '3103'){
+	 	 	var popObj = $('#autoPromptMsg');
+	 	 	var popConObj = $('#autoPromptMsg .poputCon');
+	 		var interval = setInterval(
+	 			function(){
+	 				if(countTime < limitTime){
+	 					countTime++;
+	 				}else{
+	 					clearInterval(interval);
+	 					if(clickCloseBtnTimes <= 2){
+	 						window.focus();
+	 						autoPromptPop(popObj,popConObj);
+	 					}
+	 					countTime = 0;
+	 				}
+	 			},
+	 			1000
+	 		);
+ 		}
+ 	}
+
+ 	var _bool=false;
+	function autoPromptPop(popObj,popConObj){
+		if(_bool){
+			$('#winmask').show();
+		}
+		popObj.show();
+		popConObj.css("background-color","#f5f5dc");
+		
+		popObj.css({'width':'400px','height':'200px'});
+		
+		showRightBottom(popObj);
+	}
+
+	function showRightBottom(popObj){
+		popObj.slideDown().css({'position':'fixed','bottom':0+'px','right':10+'px'});
+	}
+	
+	try{
+		
+		if(/Fy/i.test(navigator.userAgent) || /tdxw/i.test(navigator.userAgent)){
+			
+			$("#topNav").hide();
+			$("#ui-header").hide();
+		}else{
+			$("#topNav").show();
+			$("#ui-header").show();
+		}
+	}catch(e){
+		$("#topNav").show();
+		$("#ui-header").show();
+	}
+</script>
+
+
+<div class="contentBox">
+	<h1 style="height:0;width:0;overflow:hidden;">国泰君安开户流程</h1>
+	<div class="w1000">
+    <div id="AdLayer" class="ie6fixedBR"><a href="javascript:history.back(-1)"><img src="../pic/icon-back.png" title="后退" style="vertical-align:middle;margin-right:5px;">后退</a><br/><a href="#"><img src="../pic/icon-top.png" title="返回顶部" style="vertical-align:middle;margin-right:5px;">返回顶部</a></div>
+    	<ul class="help-tip">
+        	<li id="tagyy1" class="cur"><a href="khzh.jsp">开户/转户</a></li>
+            <li id="tagyy2"><a href="sfcg_czzy.jsp">三方存管操作指引</a></li>
+            <li id="tagyy3"><a href="cjwt.jsp">常见问题</a></li>
+            <li id="tagyy4"><a href="tzzjy.jsp">投资者教育</a></li>
+            <li id="tagyy5"><a href="khxy.jsp">开户协议</a></li>
+            <li id="tagyy6"><a href="zscz.jsp">证书操作指南</a></li>
+            <li id="tagyy7"><a href="sjkh.jsp">手机开户单向视频</a></li>
+        </ul>
+        
+    </div>
+</div>
+<div class="w1000">
+<div class="content ">
+	<div class="help-box">
+    	<h2><em>新开户</em></h2>
+    	<p class="p1">国泰君安为您提供多种开户方式：营业部开户、网上自助开户、预约开户、手机开户、95521电话预约等，本帮助仅针对网上自助开户的客户。</p>
+        <p class="text1">Q1. <a href="#a1">我适合新开户吗？</a></p>
+        <p class="p2">如果您有投资理财，股票交易的需求，但是还没有在任何证券公司开立股东账户，我们建议您快捷开通以下账户：</p>
+        <p class="p3">君弘一户通：国泰君安独有的综合理财超级账户，消费支付，汇款转账，理财投资，股票交易，期货投资应有尽有，国泰君安为您的每一个明天打算。</p>
+        <p class="p3">资金账户：您在进行证券交易时的清算账户，是您投资理财的基础账户。</p>
+        <p class="p3">股东账户：您进入股票市场的通行证，拥有它您才能进行股票交易。个人仅能在沪深股市分别开立一个股东账户。</p>
+        <p class="p2">基金账户：开通简单快捷，可用于各类基金产品的购买。</p>
+        
+        
+        
+        <p class="text1">Q2. <a href="#a2">我需要准备哪些东西？</a></p>
+        <p class="p3">为了保证您的合法权益，验证您的身份信息，在开户时请您准备以下证件：</p>
+        <p class="p3">○1.您本人的身份证原件</p>
+        <p class="p3">○2.银行储蓄卡或存折</p>
+        <p class="p2">如果您需要交易股票，一定要准备一个摄像头和耳麦（就是平时上网视频聊天的那种就可以），因为要通过视频核实本人哦。</p>
+        
+        
+        <p class="text1">Q3. <a href="#a3">网上开户需要哪些步骤？</a></p>
+        <p class="p3">网上开户将依次为您开通基础账户君弘一户通、资金账户，然后开通用于购买股票、基金、理财产品的账户，再绑定银行三方存管，即可进行正常交易。具体流程如下：</p>
+        <p class="p4">1.身份验证</p>
+        <p class="p4">2.开设账户</p>
+        <p class="p4">3.绑定银行三方存管  （<a href="sfcg_czzy.jsp#bnbd" >我的银行卡不能在线绑定</a>）</p>
+        
+        
+        <script language="JavaScript" type="text/JavaScript">
+function toggle1(){
+document.getElementById("a").style.display = "none";
+document.getElementById("b").style.display = "";
+}
+function toggle2(){
+
+document.getElementById("a").style.display = "";
+document.getElementById("b").style.display = "none";
+}
+</script>
+
+<div class="text1" id="a">Q4. <a href="javascript:void(0)" onclick="toggle1();">我是机构法人客户，如何开户？</a>
+</div>
+<div class="text1 text133" id="b" style="display:none; ">Q4. <a href="javascript:void(0)" onclick="toggle2();">我是机构法人客户，如何开户？</a>
+<p class="p3">机构客户暂时不能通过网上自助平台开户，可以通过网上预约或者直接去营业部开户。开户需要准备以下材料：</p>
+<p class="p4">1营业执照副本原件（必须经过上一年度年检，如营业执照的任何内容有变更，须出示工商局出具的变更证明）</p>
+<p class="p4">2组织结构代码证原件</p>
+<p class="p4">3法人身份证原件或复印件</p>
+<p class="p4">4税务登记证原件</p>
+<p class="p4">5被授权人身份证原件</p>
+<p class="p4">6公章</p>
+<p class="p4">7法人章</p>
+<p class="p4">8开户费：深圳A股股东帐户500元</p>
+<p class="p4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上海A股股东帐户400元</p>
+</div>
+        
+        
+        
+        <p class="text1">Q5. <a href="#a5" onclick="Effect.openwin(&#39;popopyyb&#39;)">立即查找就近营业部</a></p>
+        
+        
+        
+        <h2 class="h2"><em>转户</em></h2>
+        <p class="text1" id="a1">1. <b>网上自助开户支持转户吗？</b></p>
+        <p class="p2">网上开户支持转户，您先在其他券商销户，然后到国泰君安网上开户http://kh.gtja.com,先开通资金账户，然后在股东账户选择页面选择“我已有账户，从其他券商转入”，输入您以前开设的沪深股东账户即可。</p>
+        
+        
+        <p class="text1" id="a2">2. <b>我适合转户吗？</b></p>
+        <p class="p2">如果您已经在其他证券公司开立股东账户，但是又希望在国泰君安开户，可以直接将您的股东账户转到国泰君安证券。</p>
+        
+        <p class="text1" id="a3">3. <b>我需要准备哪些东西？</b></p>
+        <p class="p3">为了保证您的合法权益，验证您的身份信息，在转户时请您准备以下证件：</p>
+        <p class="p3">1.您本人的身份证原件</p>
+        <p class="p2">2.银行储蓄卡或存折</p>
+        
+        
+        
+        <p class="text1" id="a4">4. <b>转户需要哪些步骤？</b></p>
+        <p class="p3"> 1.撤户手续</p>
+        <p class="p3"> 您需要先到原证券公司营业部办理转户手续。上海股东账户需要撤销指定交易，深圳股东账户需要办理转托管，转托管的欲转入营业部全称及席位号， </p>
+        <p class="p3"><a href="javascript:void(0);" onclick="Effect.openwin(&#39;popopyyb&#39;)">请立即查看营业部席位号。</a></p>
+        <p class="p3"> 2.开立账户</p>
+        <p class="p3">此步骤跟新开户流程相似，在股东账户开设页选择“从其他券商转入”，并输入相应的股东账户代码，即可挂接。</p>
+    </div>
+
+</div>
+
+
+
+ </div>
+
+
+<div class="w1000" id="footer">
+版权所有<span style="font-family:Arial">©</span>1999-2021国泰君安证券股份有限公司&nbsp;&nbsp;
+<span><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=TRADE.GTJA.COM&lang=zh_cn" target="_blank"><img src="/kh/pic/busimanage/footerimg03.jpg" /></a></span>&nbsp;&nbsp;
+<span><a href="https://ss.knet.cn/verifyseal.dll?sn=2010051900100001113&ct=df&a=1&pa=0.662609336932953" target="_blank"><img src="/kh/pic/busimanage/footerimg04.jpg" /></a></span>
+</div>
+<script type="text/javascript">
+	try{
+		//if(window.external && window.external.CallTQL){
+		if(/Fy/i.test(navigator.userAgent) || /tdxw/i.test(navigator.userAgent)){//客户端访问
+			//console.log('This is client');
+			$("#footer").hide();
+		}else{
+			$("#footer").show();
+		}
+	}catch(e){
+		$("#footer").show();
+	}
+</script>
+
+<script type="text/javascript">
+var _py = _py || [];
+_py.push(['a', 'Iy..7dZbbtBpfOcniVONGUQLoP']);
+_py.push(['domain','stats.ipinyou.com']);
+_py.push(['e','']);
+-function(d) {
+var s = d.createElement('script'),
+e = d.body.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e),
+f = 'https:' == location.protocol;
+s.src = (f ? 'https' : 'http') + '://'+(f?'fm.ipinyou.com':'fm.p0y.cn')+'/j/adv.js';
+}(document);
+</script>
+<noscript><img src="//stats.ipinyou.com/adv.gif?a=Iy..7dZbbtBpfOcniVONGUQLoP&e=" style="display:none;"/></noscript>
+
+
+
+<div class="popup popup2" id="popots" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popots&#39;,event)">
+<span onclick="Effect.openwin(&#39;popots&#39;)"></span>温馨提示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+   <div class="popup_kt">
+   <p class="xxzdmsg f14 c666">&nbsp;&nbsp;&nbsp;&nbsp;以下账户功能暂未开通成功</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+<span class="tit"><img src="../pic/ts_icon.gif" class="icon">君弘一户通</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">密码账户</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+<tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">转账功能</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">消费支付功能</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">资金账号</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+<tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">客户代码</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+    <span class="tit fr"><div class="xxzd">查看原因<img src="../pic/xxbg.jpg" style="position:relative; top:2px;"></div></span>
+    <span class="tit"><img src="../pic/ts_icon.gif" class="icon">股东账户</span>
+<div class="msgcon">文字信息</div>
+    </td>
+
+  </tr>
+</tbody></table>
+
+   </div>
+     <p class="blank20"></p>
+   <p align="center"><a href="#" class="btn03">再试一次</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="bdyhk.jsp" class="btn03">稍后再说</a></p>
+    <p class="blank20"></p> 
+</div>
+  </div>
+
+
+<div class="popup" id="popopyyb" style="display: none;">
+	<div class="popupTit " onmousedown="Effect.Mdrag('popopyyb',event)">
+		<span onclick="Effect.openwin('popopyyb')"></span>提示信息
+	</div>
+	<div class="popupCon">
+		<div class="popup-yyblist">
+			<ul class="yybTab fn-clear">
+				<li class="cur" id="tagy1" onclick="SwitchNews('y',1,3,'cur','')">
+					选择地区
+				</li>
+				<li id="tagy2" onclick="SwitchNews('y',2,3,'cur','')">
+					选择营业部
+				</li>
+				<li id="tagy3" onclick="SwitchNews('y',3,3,'cur','')">
+					营业部详情
+				</li>
+			</ul>
+			<input type="hidden" name="branchNameHid" id="branchNameHid"
+				value="" />
+			<input type="hidden" id="branchId1" value=""></input>
+
+			<div class="area" id="y1">
+				<div class="search">
+					<input type="text" class="inputTxt2" id="queryBranch"
+						onchange="showBackName();" value="" />
+					&nbsp;&nbsp;
+					<input type="button" onclick="changeItem()" value="搜索"
+						class="btn05" />
+				</div>
+				<div class="areaList" id="provinceList">
+				</div>
+			</div>
+			<div class="yyb" id="y2" style="display: none">
+				<ul id="getyyb">
+
+				</ul>
+			</div>
+			<div class="yybCon" id="y3" style="display: none">
+				<input type="hidden" name="thPrinceId" id="thPrinceId" value="" />
+				<input type="hidden" name="thBranchId" id="thBranchId" value="" />
+				<input type="hidden" name="thBranchNo" id="thBranchNo" value="" />
+				<input type="hidden" name="thBrhId" id="thBrhId" value="" />
+				
+				<div class="yybTit">
+					<em id="thBranchName"></em>
+					<a href="#" id="yyMap">查看地图</a>
+				</div>
+				<p class="blank10"></p>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="right">
+							地址：
+						</td>
+						<td id="thBranchAddr"></td>
+					</tr>
+					<tr>
+						<td align="right">
+							咨询电话：
+						</td>
+						<td id="thZxTel"></td>
+					</tr>
+					<tr>
+						<td align="right">
+							委托电话：
+						</td>
+						<td id="thWtTel"></td>
+					</tr>
+					<tr>
+						<td align="right">
+							席位号：
+						</td>
+						<td id="thXwh"></td>
+					</tr>
+				</table>
+				<p class="blank10"></p>
+				<p align="center">
+					<a href="#" onclick="Effect.openwin('popopyyb')" class="btn03">确&nbsp;&nbsp;定</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="popup popup3" id="popupbankgs" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankgs&#39;,event)">
+绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bank/gs/gs.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/gs/gs1.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/gs/gs2.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/gs/gs3.jpg" width="470" height="286"></li>
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankgs&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+  
+<div class="popup popup3" id="popupbankjs" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankjs&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bank/js/js.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/js/js1.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/js/js2.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/js/js3.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/js/js4.jpg" width="470" height="286"></li>
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankjs&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+  
+  
+<div class="popup popup3" id="popupbankpf" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpf&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bank/pufa/pf.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/pufa/pf1.jpg" width="470" height="286"></li>
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankpf&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+  
+ 
+<div class="popup popup3" id="popupbankzs" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankzs&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bank/zhaoshang/zs.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/zhaoshang/zs1.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/zhaoshang/zs2.jpg" width="470" height="286"></li>
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankzs&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+  
+  
+  
+ 
+<div class="popup popup3" id="popupbankpa" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bank/pa/pa.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/pa/pa1.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/pa/pa2.jpg" width="470" height="286"></li>
+                        <li><img src="../pic/bank/pa/pa3.jpg" width="470" height="286"></li>
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankpa&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>     
+
+<div class="popup popup3" id="popupbankny" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/nyyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankny&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankxy" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/xyyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankxy&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbanksh" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/shyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbanksh&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankzg" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/zgyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankzg&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankgd" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/gdyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankgd&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankms" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/msyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankms&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankjt" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/jtyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankjt&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankhx" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/hxyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankhx&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankzx" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/zxyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankzx&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankbj" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/bjyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankbj&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbanknj" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/njyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbanknj&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+<div class="popup popup3" id="popupbankgf" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popupbankpa&#39;,event)">绑定银行演示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <div class="jcarousel-wrapper">
+                <div class="jcarousel jcarousel2" data-jcarousel="true">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="../pic/gfyh.jpg" width="470" height="286"></li>
+                        
+                    </ul>
+                </div>
+                <a href="#" class="jcarousel-control-prev inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+                <a href="#" class="jcarousel-control-next inactive" style="top:120px;" data-jcarouselcontrol="true"></a>
+            </div>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popupbankgf&#39;)">我知道了</a></p>
+    <p class="blank20"></p>
+</div>
+  </div>
+
+
+<div class="popup popup2" id="popoperror" style="display:none; ">
+<div class="popupTit " onmousedown="Effect.Mdrag(&#39;popoperror&#39;,event)">温馨提示</div>
+<div class="popupCon">
+  <p class="blank20"></p>
+  <p align="center" class="if">如果您持有的银行卡不支持线上绑定三方存管，请联系您的开户营业部（营业部详情查询），临柜或者通过寄送方式取得三方存管三联单据，到就近的银行网点办理三方存管手续。完成后，再将营业部联临柜或者寄送回开户营业部</p>
+  <p class="blank20"></p>
+  <p align="center"><a href="#" class="btn03" onclick="Effect.openwin(&#39;popoperror&#39;)">我知道了</a></p>
+  <p class="blank20"></p>
+</div>
+ </div>
+<div id="winmask" style="display:none;"></div>   
+</body>
+</html>
+	
