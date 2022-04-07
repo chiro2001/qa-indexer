@@ -1,15 +1,18 @@
-__all__ = ['dummy', 'utils', 'get_spider_list', 'logger', 'Dummy']
+from spiders.utils.base_logger import logger
 
-from spiders.dummy import Dummy
+__all__ = ['dummy', 'utils', 'get_spider_list', 'Dummy', 'logger']
+
 from spiders import utils
 from spiders.base import BaseSpider
 from spiders.utils import *
 from typing import *
 
+from spiders.dummy import Dummy
+
 
 def get_spider_list() -> List:
     return [
-        Dummy()
+        Dummy
     ]
 
 

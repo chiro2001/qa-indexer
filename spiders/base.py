@@ -1,6 +1,7 @@
 from abc import abstractmethod
 from typing import *
-from spiders.utils import logger
+
+from spiders.utils.base_logger import logger
 
 
 class QaItem:
@@ -61,3 +62,18 @@ class BaseSpider:
                 except Exception as e:
                     retry_now -= 1
                     logger.warning(f"Except: {e} ({type(e)}), retry remains {retry_now}")
+            self.to_next_page()
+
+
+class StaticSpider(BaseSpider):
+    def __init__(self, name: str):
+        super().__init__(name)
+
+    def fetch_page_count(self) -> int:
+        pass
+
+    def parse_html(self, html: str) -> List[QaItem]:
+        pass
+
+    def fetch_page_html(self, page: int = None) -> str:
+        pass

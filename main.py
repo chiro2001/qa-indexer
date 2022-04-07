@@ -4,13 +4,11 @@ from spiders import Dummy
 
 
 def main():
-    tested_spiders = [
-        Dummy
-    ]
+    tested_spiders = []
     testing_spiders = [
         Dummy
     ]
-    # spiders.run(tested_spiders)
+    spiders.run(tested_spiders)
     spiders.run(testing_spiders)
     logger.info("Done")
 
