@@ -1,4 +1,4 @@
-__all__ = ['beans', 'logger']
+__all__ = ['logger']
 
 from .base_logger import get_logger
 

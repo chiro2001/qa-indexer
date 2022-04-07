@@ -1,9 +1,18 @@
+import spiders
 from spiders import *
+from spiders import Dummy
 
 
 def main():
-    logger.info(f'spiders: {spider_list}')
-    pass
+    tested_spiders = [
+        Dummy
+    ]
+    testing_spiders = [
+        Dummy
+    ]
+    # spiders.run(tested_spiders)
+    spiders.run(testing_spiders)
+    logger.info("Done")
 
 
 if __name__ == '__main__':
