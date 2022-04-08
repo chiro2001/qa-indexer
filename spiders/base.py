@@ -1,4 +1,6 @@
+import json
 from abc import abstractmethod, ABC
+from functools import reduce
 from typing import *
 
 from spiders.utils.base_logger import logger
@@ -18,12 +20,14 @@ class BaseSpider(ABC):
     def __init__(self,
                  name: str,
                  page_start: int = 0,
-                 retry: int = 3):
+                 retry: int = 3,
+                 out_file: str = None):
         self.name = name
         self.page_now = page_start
         self.page_max = self.fetch_page_count()
         self.database = {}
         self.retry = retry
+        self.out_file = out_file if out_file is not None else f"data/{name}.json"
 
     @abstractmethod
     def fetch_page_count(self) -> int:
@@ -50,6 +54,14 @@ class BaseSpider(ABC):
 
     def save_data(self, data: List[QaItem]):
         self.database[self.page_now] = data
+        self.storage_sync()
+
+    def format_database(self) -> List[QaItem]:
+        return reduce(lambda x, y: x + y, [[d.__dict__ for d in self.database[key]] for key in self.database])
+
+    def storage_sync(self):
+        with open(self.out_file, "w", encoding="utf8") as f:
+            json.dump(self.format_database(), f)
 
     def run(self):
         logger.info("run")

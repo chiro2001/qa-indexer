@@ -1,5 +1,4 @@
 import logging
-from abc import *
 from typing import *
 
 from spiders.base import BaseSpider, QaItem
