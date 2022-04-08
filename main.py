@@ -1,6 +1,4 @@
-import spiders
 from spiders import *
-from spiders import Dummy
 
 
 def main():
@@ -8,8 +6,11 @@ def main():
     testing_spiders = [
         Dummy
     ]
-    spiders.run(tested_spiders)
-    spiders.run(testing_spiders)
+    # spiders.run(tested_spiders)
+    # spiders.run(testing_spiders)
+    # run(testing_spiders)
+    d = Dummy()
+    d.run()
     logger.info("Done")
 
 

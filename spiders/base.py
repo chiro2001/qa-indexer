@@ -1,4 +1,4 @@
-from abc import abstractmethod
+from abc import abstractmethod, ABC
 from typing import *
 
 from spiders.utils.base_logger import logger
@@ -14,7 +14,7 @@ class QaItem:
         self.other = other
 
 
-class BaseSpider:
+class BaseSpider(ABC):
     def __init__(self,
                  name: str,
                  page_start: int = 0,
@@ -52,6 +52,7 @@ class BaseSpider:
         self.database[self.page_now] = data
 
     def run(self):
+        logger.info("run")
         while not self.is_finish():
             retry_now = self.retry
             while retry_now > 0:
