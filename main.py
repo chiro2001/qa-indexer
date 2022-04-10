@@ -1,16 +1,17 @@
 from spiders import *
+from spiders.dfzq import Dfzq
+from spiders.utils.run import run
 
 
 def main():
-    tested_spiders = []
-    testing_spiders = [
+    tested_spiders = [
         Dummy
     ]
-    # spiders.run(tested_spiders)
-    # spiders.run(testing_spiders)
-    # run(testing_spiders)
-    d = Dummy()
-    d.run()
+    testing_spiders = [
+        Dfzq
+    ]
+    # run(tested_spiders)
+    run(testing_spiders)
     logger.info("Done")
 
 

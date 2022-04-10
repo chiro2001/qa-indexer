@@ -1,8 +1,4 @@
-import logging
-from typing import *
-
-from spiders.base import BaseSpider, QaItem
-from spiders.utils.base_logger import logger
+from spiders.base import *
 
 
 class Dummy(BaseSpider):
@@ -20,5 +16,5 @@ class Dummy(BaseSpider):
         return 1
 
     def fetch_page_html(self, page: int = None) -> str:
-        logging.info(f"fetching html from page {page}")
+        logger.info(f"fetching html from page {page}")
         return ""

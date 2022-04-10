@@ -1,7 +1,9 @@
 import json
-from abc import abstractmethod, ABC
+import os.path
+from abc import *
 from functools import reduce
 from typing import *
+from bs4 import BeautifulSoup as Soup
 
 from spiders.utils.base_logger import logger
 
@@ -21,24 +23,47 @@ class BaseSpider(ABC):
                  name: str,
                  page_start: int = 0,
                  retry: int = 3,
-                 out_file: str = None):
+                 out_file: str = None,
+                 html_out: bool = True):
+        """
+        基础爬虫类
+        :param name:        爬虫名称
+        :param page_start:  开始页
+        :param retry:       重试次数
+        :param out_file:    输出文件名
+        :param html_out:    是否以`html`格式输出
+        """
         self.name = name
         self.page_now = page_start
         self.page_max = self.fetch_page_count()
         self.database = {}
         self.retry = retry
         self.out_file = out_file if out_file is not None else f"data/{name}.json"
+        self.html_out = html_out
 
     @abstractmethod
     def fetch_page_count(self) -> int:
+        """
+        :return: 页面总数
+        """
         pass
 
     @abstractmethod
     def parse_html(self, html: str) -> List[QaItem]:
+        """
+        解析 html 到 QA List
+        :param html: html 文本
+        :return: QA List
+        """
         pass
 
     @abstractmethod
-    def fetch_page_html(self, page: int = None) -> str:
+    def fetch_page_html(self, page: Optional[int] = None) -> str:
+        """
+        按页面获取 html
+        :param page:    页面
+        :return: html   文本
+        """
         pass
 
     def is_finish(self) -> bool:
@@ -61,7 +86,7 @@ class BaseSpider(ABC):
 
     def storage_sync(self):
         with open(self.out_file, "w", encoding="utf8") as f:
-            json.dump(self.format_database(), f)
+            json.dump(self.format_database(), f, ensure_ascii=False, indent=2)
 
     def run(self):
         logger.info("run")
@@ -79,14 +104,18 @@ class BaseSpider(ABC):
 
 
 class StaticSpider(BaseSpider):
-    def __init__(self, name: str):
+    def __init__(self, name: str, filename: str, path: str = 'dataset/data-from-internet/static'):
         super().__init__(name)
+        self.filename = filename
+        self.path = path
 
-    def fetch_page_count(self) -> int:
-        pass
-
+    @abstractmethod
     def parse_html(self, html: str) -> List[QaItem]:
         pass
 
+    def fetch_page_count(self) -> int:
+        return 1
+
     def fetch_page_html(self, page: int = None) -> str:
-        pass
+        with open(os.path.join(self.path, self.filename), "r", encoding="utf8") as f:
+            return f.read()
