@@ -11,10 +11,10 @@ def main():
         Dfzq,
         # 上海证券 - IPO问题
         ShzqIPO,
+        # 上海证券 - 投资者问题
+        ShzqInvestors,
     ]
     testing_spiders = [
-        # ShzqIPO,
-        ShzqInvestors,
     ]
     # run(tested_spiders)
     run(testing_spiders)
