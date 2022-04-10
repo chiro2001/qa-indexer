@@ -88,18 +88,26 @@ class BaseSpider(ABC):
         with open(self.out_file, "w", encoding="utf8") as f:
             json.dump(self.format_database(), f, ensure_ascii=False, indent=2)
 
+    def add_extra_data(self, qa: QaItem) -> QaItem:
+        qa.other = {} if qa.other is None else qa.other
+        qa.other["source"] = self.name
+        return qa
+
     def run(self):
         logger.info("run")
         while not self.is_finish():
             retry_now = self.retry
             while retry_now > 0:
                 try:
-                    data = self.fetch_page()
-                    self.save_data(data)
+                    qa_list = self.fetch_page()
+                    qa_list = [self.add_extra_data(qa) for qa in qa_list]
+                    self.save_data(qa_list)
                     break
                 except Exception as e:
                     retry_now -= 1
                     logger.warning(f"Except: {e} ({type(e)}), retry remains {retry_now}")
+                    if retry_now <= 0:
+                        raise e
             self.to_next_page()
 
 

@@ -3,364 +3,416 @@
     "question": "我已经在其他公司开有证券/期货账户，还可以在东方证券（香港）/东方期货（香港）开户吗？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style=\"font-size: 16px; font-family: 微软雅黑, \"><span style=\"font-size: 16px;\">可以。客户可选择于任何香港证监会认可的证券公司</span>/<span style=\"font-size: 16px;\">期货公司开立账户，并不设账户数上限。</span></span></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "开通个人账户基本上有什么类型?",
     "answer": "<dd><p>1、证券现金账户</p><p>现金账户是一种不涉及股票抵押借贷的账户。客户必须在交易结算日全数缴付交易金额，否则，账户会被收取逾期交收利息。</p><p>2、证券保证金账户</p><p>保证金账户，又称孖展融资账户，客户可通过此账户向东方证券（香港）质押股票获得资金，来购买对应股票，起到放大交易杠杆的作用。在股价上扬时，可起到扩大收益的作用，反之也扩大了交易投资风险。在确认开通并使用保证金账户功能前，客户需评估自身的是否有足够的风险承受能力。</p><p>客户如欲查询证券的抵押值，请联系我司客户服务热线 （中国内地） 40086-95503或（香港）3519-1288查询。</p><p>3、期货及期权账户</p><p><br/></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "开户需要哪些证明材料？",
     "answer": "<dd><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: \">(1) 有效身份证或护照复印本</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: \">(2) 现居住地址证明*</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: \">(3) 通讯地址证明*（如与居住地址不同）</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: \">(4) 我司或会按需要要求客户提供其他资料或文件</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: \">*地址证明要求：最近三个月内发出的公共事业单位账单（如水费单、电费 单、煤气、电话费单）、银行或信用卡账单，金融或公用机构发出盖业 务章的证明，客户姓名及住宅/通讯地址应清楚地显示在单据上。邮政信箱恕不接受</p><p><br/></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "忘记了客户账号及/或密码，怎么办？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style=\"font-family: 微软雅黑, \"><span style=\"font-size: 16px;\">请即致电东方</span><span style=\"font-size: 16px;\">（香港）</span><span style=\"font-size: 16px;\">客户服务部热线（中国内地）</span><span style=\"font-size: 16px;\"> 400-86-95503</span><span style=\"font-size: 16px;\">/（香港）</span><span style=\"font-size: 16px;\">(852) 3519-1288 </span><span style=\"font-size: 16px;\">向东方</span><span style=\"font-size: 16px;\">（香港）</span><span style=\"font-size: 16px;\">客户服务人员申请重发客户账号或</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">及重置密码。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "可否同时开立个人现金账户及个人保证金账户？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>可以，客户可同时在我司开立个人现金账户及个人保证金账户。</span></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "开立账户的流程是如何？",
     "answer": "<dd><p><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>客户可以选择网上开户或见证开户，详情<a href=\"/main/index/openAccount/index.shtml\" style=\"color: rgb(192, 80, 77); text-decoration: underline;\" target=\"_blank\" title=\"按此\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\"; color: rgb(192, 80, 77);'>按此</span></a>。</span></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "开立股票或期货账户，是否收取开户费用？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>客户在东方（香港）开立股票或期货账户，我司不会收取开户费用。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何确认已成功开设账户？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>当开户登记文件核妥后，我司将向您发出客户账号、登入密码及银行存款资料等。</span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>客户应定期更改登入密码。特别注意，当第一次登入系统，应先更改登入密码，以防账户被盗用。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "开户事宜"
+      "classification": "开户事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "何谓IPO？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">IPO </span><span style=\"font-size: 16px;\">（</span><span style=\"font-size: 16px;\">Initial Public Offer</span><span style=\"font-size: 16px;\">）即「首次公开招股」，是指一些企业打算引入新资金而向公众投资者发行新股或债券等。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何参与申购IPO？",
     "answer": "<dd><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>投资者可选择以不同方式认购首次公开招股的新股。</span></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>(1) 客户可通过东方证券（香港）交易软件中作认购；或</span></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>(2) 于我司网站「新股上市」中下载认购表格，填写后请扫描予我司。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "何谓新股融资？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">新股融资是指金融机构提供给投资者信贷，用作新股申请之用。指定新股信贷比率可高达</span><span style=\"font-size: 16px;\">90%</span><span style=\"font-size: 16px;\">，即客户只需支付申购金额之</span><span style=\"font-size: 16px;\">10%</span><span style=\"font-size: 16px;\">现金即可申购，其余</span><span style=\"font-size: 16px;\">90%</span><span style=\"font-size: 16px;\">之申购金额将由本公司以贷款形式代阁下支付。</span></span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>当市场出现超额认购的情况下，客户获成功分配之机会相对减少。客户透过我司向阁下提供之融资服务，阁下便可用现有的资金认购更多的新股，从而增加获配售机会。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "使用新股融资服务要注意什么事项或风险？",
     "answer": "<dd><p>由于新股上市时，股价可升可跌，当中涉及一定的投资风险，故此在作出投资决定前，阁下应了解有关公司之业务性质及背景，阅读其发售章程及公司财务报告等资料。如在招股过程中超额认购倍数比预期小，投资者可能会获得比预期中较多股数，原本支付的10%申购金额可能不足以支付所获得股数的全部申购金额，因而可能需要额外再支付未足之认购金额。</p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "融资认购，账户中必须有现金吗？",
     "answer": "<dd><p><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>是的，融资认购需要账户中有可提资金，在可提资金的基础上加杠杆认购。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "融资利息怎么计算？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>融资利息和利息计算日等资料已于我司官网「新股上市」上点击相关股票便可以查看。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "可否在新股上市当日沽售获分配之新股？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">如客户通过东方证券</span><span style=\"font-size: 16px;\">（香港）</span><span style=\"font-size: 16px;\">申请新股</span><span style=\"font-size: 16px;\">, </span><span style=\"font-size: 16px;\">相关新股会于上市日前存入阁下在我司的证券户口内，阁下可于新股上市当日即进行沽售。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "融资认购，公布中签结果后，资金是怎么计算的？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>公布中签结果后，如果没有中签，扣除的本金部分（不包含手续费）将会在当天返还至您账户中。如果中签，会为您增加持仓，并且扣除相应资金。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "融资认购公布中签后，如果追收保证金，要怎么处理？",
     "answer": "<dd><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>公布中签结果后，如果您的账户保证金比例不足，会触发追收保证金，我司会向客户发出追缴保证金通知。请客户在指定日期前存入足额的保证金，否则东方证券（香港）有权利在未通知客户的情况下平仓。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "现金认购和融资认购，可以同时申请吗?",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>不可以，只能二选一。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "当天存入资金多久可以用来申请新股？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>当天存入的资金，如果账户有欠款，会先还欠款；如果账户有未交收的资金，会先抵扣未交收的资金，剩余的部分，可以用来申请新股。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "当天卖出股票，资金多久可以用来申购新股？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>当天卖出股票，在T+2的上午资金就可以变成可提资金，即可用于申购新股。例如周一卖股票，周三上午资金就可以用来申请新股。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "新股认购的中签规则是怎样的？认购越多，中签越多吗？",
     "answer": "<dd><p><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>不是，新股非国际配售的分配是按抽签决定，规则由交易所决定。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "新股认购"
+      "classification": "新股认购",
+      "source": "东方证券"
     }
   },
   {
     "question": "买卖港股后，应在甚么时候进行交收？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>根据香港交易所规则，所有交易须于第二个股票交易日进行交收，即T+2日。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "股票交收"
+      "classification": "股票交收",
+      "source": "东方证券"
     }
   },
   {
     "question": "怎样才可将股票由另一券商/银行转至东方证券（香港）？",
     "answer": "<dd><p>客户必须同时向东方证券（香港）及其存货之券商/银行下达交收指示，并须填写我司「交收指示表格」后先电邮或传真至我司。</p><p>东方证券（香港）在核对客户签署后，会联系客户及尽快安排将有关股票转至客户之账户内。</p><p><br/></p></dd>",
     "other": {
-      "classification": "股票交收"
+      "classification": "股票交收",
+      "source": "东方证券"
     }
   },
   {
     "question": "东方证券（香港）在中央结算的参与者代号是什么？",
     "answer": "<dd><p>参与者代号： B01900</p><p>参与者名称： 东方证券（香港）有限公司</p><p><br/></p></dd>",
     "other": {
-      "classification": "股票交收"
+      "classification": "股票交收",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何存款至东方证券（香港）/东方期货（香港）账户？",
     "answer": "<dd><p>方法1</p><p>将款项存入我司为客户开设的子账户，我司在查获存款后将自动将款项存入客户在我司的证券账户内。</p><p>注：客户可保留存款记录以供日后复核翻查。</p><p><br/></p><p>方法2</p><p>将款项存入东方证券（香港）有限公司/东方期货（香港）有限公司的结算银行账户，并于存款后把银行存根电邮/传真至东方（香港）客户服务部，电邮：cs@dfzq.com.hk，传真：(852) 2259-9218。</p><p>注：客户可在银行存根副本正面写上阁下之姓名及户口号码，并保留存款记录以供日后复核翻查。</p><p><br/></p><p>方法3</p><p>银证转账。如客户持有招商银行香港一卡通，您可于银行网上平台登记与东方证券（香港）的银证转账服务，于成功登记后便可通过招商银行网上发出拨账指示。</p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "东方证券（香港）结算银行资料",
     "answer": "<dd><p>请点击链接查看 <a href=\"/ueditor/jsp/upload/file/20220114/1642123925171099815.pdf\" target=\"_blank\" title=\"/ueditor/jsp/upload/file/20220114/1642123925171099815\">/ueditor/jsp/upload/file/20220114/1642123925171099815</a></p><p><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "东方期货（香港）结算银行资料",
     "answer": "<dd><p>请点击链接查看<a href=\"/ueditor/jsp/upload/file/20220114/1642124265128020684.pdf\" target=\"_blank\" title=\"/ueditor/jsp/upload/file/20220114/1642124265128020684\">/ueditor/jsp/upload/file/20220114/1642124265128020684</a></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何绑定【招商银行香港一卡通】银证转账？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>1）客户在开立招行【招商银行香港一卡通】后, 请登入网银（个人银行在线版/ 个人银行专业版）；</span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>2）依次选择“一卡通”“银证转账”“功能申请与取消”；</span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>3）点击“新增”后, 于券商名称中选择“东方证券”；</span></p><p style=\"margin-top:12px\"><img alt=\"image.png\" src=\"/ueditor/jsp/upload/image/20190329/1553846992421027192.png\" title=\"1553846992421027192.png\"/></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>4）在“输入证券账号”栏里输入您的六位数资金账户号后再按确认</span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'><img alt=\"image.png\" src=\"/ueditor/jsp/upload/image/20190329/1553846999867091743.png\" title=\"1553846999867091743.png\"/></span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>5）请耐心等待数分钟, 便会在申请页面看到已开通东方证券的银证转账了！</span></p><p style=\"margin-top:12px\"><span style='font-size: 12px; font-family: 微软雅黑, \"Microsoft YaHei\";'>免责声明：以上指引截图来自于用户的分享，仅供参考。截图界面如有出入，以银行实际界面为准，请与银行确认填写内容。东方（香港）不承担由于此指引导致的任何损失。</span></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何从【招商银行香港一卡通】转账至东方证券（香港）？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>1）登入香港招行网银： 个人银行在线版 或者 个人银行专业版</span></p><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>2）依次选择“一卡通”-“银证转账”-“一卡通转券商/商户账户”</span></p><p style=\"margin-top:12px\"><span style=\";font-family:Calibri;font-size:16px\"><img alt=\"image.png\" src=\"/ueditor/jsp/upload/image/20190329/1553847098256001952.png\" title=\"1553847098256001952.png\"/> </span></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>3）选择东方证券，输入转账金额与交易密码</span></p><p><img alt=\"image.png\" src=\"/ueditor/jsp/upload/image/20190329/1553848019436056663.png\" title=\"1553848019436056663.png\"/></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>4）确认信息</span></p><p><img alt=\"image.png\" src=\"/ueditor/jsp/upload/image/20190329/1553848025843053082.png\" title=\"1553848025843053082.png\"/></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>5）转账成功，等待资金到帐</span></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'>免责声明：以上指引截图来自于用户的分享，仅供参考。截图界面如有出入，以银行实际界面为准，请与银行确认填写内容。东方（香港）不承担由于此指引导致的任何损失。</span></p><p style=\"margin-top:12px\"><br/></p><p><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "怎样从证券/期货户口中提取款项？",
     "answer": "<dd><p>如客户需从证券/期货户口中提取款项，可通过以下途径：</p><p>1）【东方金融控股】微信公众号</p><p>选择[账户]à [账户绑定] 及输入相关资料，完成后可选择[账户]à[资金提取]输入提款资料后提交；或</p><p><br/></p><p>2）填写【客户提款指示】表格</p><p>客户可于我司官网，选择[客户服务]à[业务及表格]，打印及填妥《客户提款指示表格》后，再电邮或传真至我司客服部，电邮：cs@dfzq.com.hk，传真：(852) 2259-9218；或</p><p><br/></p><p>3）电话指示</p><p>如阁下已于东方证券（香港）/东方期货（香港）登记指定交收银行账户，可于办工时间内致电我司客户服务热线下达提款指示，（中国内地）400 86-95503 或 （香港）(852) 3519-1288我们将透过电话跟客户核对身份及账户资金状况后，如一切无误，将尽快安排款项存入客户名下的指定银行账户内。</p><p><br/></p><p>请注意：</p><p>1.每天提款的截止时间为中午11：45，如于中午11：45后下达指示，要顺延至下一个工作天处理。</p><p>2.如阁下的银行账户为内地账户，请查询该银行是否接受公对私的汇款，另外，两地资金转账的费用和到账时间，详情请向相关银行查询。</p><p>3.如客户选择透过CHATS提款，银行会收取相关手续费用。</p><p style=\"margin-top:12px\"><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "我是否可从他人的银行账户入款至我的东方证券（香港）/东方期货（香港）账户，或由我的东方证券（香港）/东方期货（香港）账户出款至他人的银行账户？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">为保障客户权益，客户的入款</span>/<span style=\"font-size: 16px;\">出款银行必须是客户本人名字的银行账户，我司不接受第三方入款</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">出款。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何登记指定交收银行账户？",
     "answer": "<dd><p>如客户需登记指定交收银行账户，可通过以下途径</p><p>1）通过【东方金融控股】微信公众号提交指示</p><p>选择[账户][账户绑定]及输入相关资料，完成后选择[账户][资料更改][修改基本信息][新增/更改银行资料]并输入需要新增/更改的银行资料；或</p><p>2）填写【更改客户资料通知书】表格</p><p>客户可在本公司网站下载【更改客户资料通知书】表格，填写后请电邮/传真或原件交予东方证券（香港）/东方期货（香港）跟进，我司会于与客户确认资料后尽快为客户登记其指定交收银行户口。</p><p><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "可否登记多个指定交收银行账户？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>可以，客户可登记多于一个港币银行账户或其他币种的收款银行账户。如阁下于我司登记多于一个银行账户，请于下达提款指示时指出所需的收款银行账户。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "可否将证券户口内之款项汇到中国内地的银行？在下指令时，需注意什么？",
     "answer": "<dd><p><span style='color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); font-family: 微软雅黑, \"Microsoft YaHei\";'>东方证券（香港）有限公司/东方期货（香港）有限公司会将款项电汇到阁下指定的银行账户，请阁下必须于汇款前向您的银行查询会否接受该公对私的两地汇款（出款人为东方证券（香港)）有限公司/东方期货（香港）有限公司），以避免银行退款引起的费用及产生额外时间。有关汇款收费，请各阁下向银行查询。</span></p></dd>",
     "other": {
-      "classification": "资金存取"
+      "classification": "资金存取",
+      "source": "东方证券"
     }
   },
   {
     "question": "客户何时可收到公司发出之日结单和月结单？收到后应怎样处理?",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">本公司会在</span></span><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>交易日</span><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">或账户内出现款项</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">股票提存活动时，</span></span>于<span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>当日收市后</span><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">发放日结单予客户。</span></span></p><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">另外，如月内账户有出现款项</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">股票提存活动及</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">或账户在月结时有现金或股票结余时，本公司便会</span></span><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>于当月最后一个交易日收市后</span><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">发放月结单予客户。</span></span></p><p><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>由于结单记录了阁下户口内所有的交易及往来纪录，建议客户收到结单后详细阅读，以确保本公司之纪录与阁下之纪录相符。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "有什么方式可收取日结单和月结单？",
     "answer": "<dd><p><span style=\"font-size: 16px; font-family: 微软雅黑, \">客户可选择以邮寄方式收取日结单及月结单或选用本公司之电子结单服务，以电邮方式收取结单。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "可否不发日/月结单给我?",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">不可以。根据香港证券及期货条例，券商必须于交易后以及账户内出现款项</span><span style=\"font-size: 16px;\"> / </span><span style=\"font-size: 16px;\">股票提存活动时发出日结单予客户。如月内账户有出现款项</span><span style=\"font-size: 16px;\"> / </span><span style=\"font-size: 16px;\">股票提存活动及</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">或账户在月结时有现金或股票结余时，券商亦须发放月结单予客户。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "选用电邮方式收取日/月结单有什么好处？怎样才可登记使用此服务？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>一般来说，以邮寄方式收取结单会较为需时。因此，东方（香港）免费提供电子结单服务予客户选用。</span></p><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>透过此项服务，客户可更快捷收取我司发出的日/月结单，方便管理账户。</span></p><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>客户可在开户时于开户申请书的【交易确认书及通信送发】中选取【电邮地址】登记此服务。</span></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "选用电邮方式收取日结单和月结单需注意什么？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\"; font-size: 16px;'>客户如欲以电邮方式收取日结单及月结单需在阁下之电脑先行安装Adobe Acrobat Reader。</span></p><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">如开启附件的</span><span style=\"font-size: 16px;\">PDF</span><span style=\"font-size: 16px;\">档桉时遇到乱码情况，可跟随系统提示更新</span><span style=\"font-size: 16px;\">Adobe Acrobat Reader</span><span style=\"font-size: 16px;\">语言包。</span></span></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "遗失了结单，怎么办？",
     "answer": "<dd><p>如需重发结单，可于以下途径申请：</p><p>1）【东方金融控股】微信公众号</p><p>选择[账户][账户绑定]及输入相关资料，完成后选择[账户][重发信件][重发信件业务]，并于“重发客户资料类型”中选择结单类型及结单周期，我部收到重发申请后，会尽快与客户联络；或</p><p>2）致电我司客服热线（内地）400-86-95503或（香港）(852) 3519-1288 进行申请。</p><p><br/></p></dd>",
     "other": {
-      "classification": "结单事宜"
+      "classification": "结单事宜",
+      "source": "东方证券"
     }
   },
   {
     "question": "什么是双重认证（2FA）？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">双重认证是采用两种不同性质的验证方法校验客户身份，包括“客户已知的资料”（如客户账号、登入密码），</span><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px;\">以及“客户拥有的工具”（如流动电话、电子邮箱）以核实客户的身份，让客户进行网上交易时得到双重保障。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "何时需要进行双重认证？",
     "answer": "<dd><p><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>客户并非每次进行交易都要进行双重认证，只须在登入网上或手机交易系统时进行一次双重认证后，便可以经网上管道进行交易，直至登出其账户（包括客户自行登出及因闲置指定时间系统自动登出）。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "客户是否必须使用双重认证以登入网上交易账户？",
     "answer": "<dd><p><span style=\"font-size: 16px; font-family: 微软雅黑, \">是。实施双重认证乃香港证监会《降低及纾减与互联网交易相关的黑客入侵风险指引》之要求，所有客户均需通过双重认证方能登入交易账户。</span></p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何登记双重认证？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style=\"font-family: 微软雅黑, \"><span style=\"font-size: 16px;\">港股及期货账户：客户无需额外登记手续，系统使用客户已登记的手机号码</span><span style=\"font-size: 16px;\">/</span><span style=\"font-size: 16px;\">电邮地址。</span></span></p><p><span style=\"font-family: 微软雅黑, \"><span style=\"font-size: 16px;\">海外市场账户：客户需要下载</span><span style=\"font-size: 16px;\">APP </span><span style=\"font-size: 16px;\">“东方（香港）双重验证”，扫瞄二维码或输入“绑定码”绑定一台设备（手机或平版电脑）。成功绑定后，可在</span><span style=\"font-size: 16px;\">APP</span><span style=\"font-size: 16px;\">“东方（香港）双重验证”中获取一次性验证码。</span></span></p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "如果验证码输入错误，应当如何处理？",
     "answer": "<dd><p style=\"margin-top:12px\"><span style='font-size: 16px; font-family: 微软雅黑, \"Microsoft YaHei\";'>「一次性验证码」是有时效的，在有效期内输入错误，请重新输入。</span></p><p style=\"margin-top:12px\"><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">如验证码已过有效期限，请重新获取</span><span style=\"font-size: 16px;\">[</span><span style=\"font-size: 16px;\">一次性验证码</span><span style=\"font-size: 16px;\">]</span><span style=\"font-size: 16px;\">。</span></span></p><p><span style='font-family: 微软雅黑, \"Microsoft YaHei\";'><span style=\"font-size: 16px;\">如验证码错误达到系统的最大允许值，账户将被锁定，请致电东方（香港）客户服务部：（内地）</span><span style=\"font-size: 16px;\">400-86-95503/</span><span style=\"font-size: 16px;\">（香港）</span><span style=\"font-size: 16px;\">(852)-3519-1288</span><span style=\"font-size: 16px;\">核实个人资料后，进行解锁。</span></span></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "手机收不到短信验证码，怎么办？",
     "answer": "<dd><p>在系统操作获取短信验证码之后，将会显示已发送的手机号码。</p><p>如手机号码不正确，请联系东方（香港）客户服务部更改。</p><p>如手机号码正确但未收到验证码，请检查手机是否安装有安全软件进行了短信拦截。</p><p>如手机号码正确而多次尝试后仍无法收到验证码，请联系东方（香港）客户服务部：（内地）400-86-95503/（香港）(852)3519-1288咨询，或人工下单专线：（内地）40086 95503/（香港）852-35191211。</p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "如何更改在东方（香港）预留的手机号？",
     "answer": "<dd><p>若开户时预留的手机号已失效或需要更改，更改资料方式如下：</p><p>1）于【东方金融控股】微信公众号提交更改指示</p><p>选择[账户][账户绑定]及输入相关资料，完成后选择[账户][资料更改][修改基本信息][更改手机号码]并输入新的手机号码，我们收到您的指示后会尽快与您联系；或</p><p>2）填写【更改客户资料通知书】表格</p><p>客户可在本公司网站下载 【更改客户资料通知书】表格，填写后请电邮 / 传真或原件交予东方（香港）跟进，我司会于与客户确认资料后尽快为客户更改相关资料。</p><p><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "我可否使用海外流动电话号码使用此服务？",
     "answer": "<dd><p style=\"margin-top:12px\">可以，东方（香港）支持中国内地、港澳台地区及海外的流动电话号码。</p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "如我收到短信验证码，但我并没有登入网上交易平台，该怎么办？",
     "answer": "<dd><p style=\"margin-top:12px\">请立即联系东方（香港）客户服务部：（内地）400-86-95503/ （香港）(852)3519-1288。<br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "若我的手提电话遭盗窃或遗失了，应如何处理？",
     "answer": "<dd><p>请即向您的流动电话服务供货商报失及致电东方（香港）客户服务部，通知我司暂停接收「一次性验证码」服务。</p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "使用「一次性验证码」需否收取费用？",
     "answer": "<dd><p style=\"margin-top:12px\">东方（香港）不会对这服务收费。但您的流动电话服务供货商可能会就接收流动短讯而征收服务费用。详情请向您的流动电话服务供应商查询。</p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   },
   {
     "question": "如我身处海外，能否接收「一次性密码」？",
     "answer": "<dd><p>如你身处海外或正使用外地网络供货商服务，有可能无法接收国际短讯。</p><p><br/></p><p>请注意当你身处于中国大陆或海外时，你需开启手提电话并启动漫游服务，以确保你能收到一次性密码的短讯以完成网上交易。请向你的电讯服务供货商查询详情。</p><p style=\"margin-top:12px\"><br/></p></dd>",
     "other": {
-      "classification": "网上/App交易——双重认证"
+      "classification": "网上/App交易——双重认证",
+      "source": "东方证券"
     }
   }
 ]

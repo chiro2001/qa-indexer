@@ -1,14 +1,17 @@
 from spiders import *
 from spiders.dfzq import Dfzq
+from spiders.shzq import Shzq
 from spiders.utils.run import run
 
 
 def main():
     tested_spiders = [
-        Dummy
+        Dummy,
+        # 东方证券
+        Dfzq
     ]
     testing_spiders = [
-        Dfzq
+        Shzq
     ]
     # run(tested_spiders)
     run(testing_spiders)
