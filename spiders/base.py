@@ -38,7 +38,7 @@ class BaseSpider(ABC):
         self.page_max = self.fetch_page_count()
         self.database = {}
         self.retry = retry
-        self.out_file = out_file if out_file is not None else f"data/{name}.json"
+        self.out_file = os.path.join('data', out_file if out_file is not None else f"{name}.json")
         self.html_out = html_out
 
     @abstractmethod
@@ -112,8 +112,12 @@ class BaseSpider(ABC):
 
 
 class StaticSpider(BaseSpider):
-    def __init__(self, name: str, filename: str, path: str = 'dataset/data-from-internet/static'):
-        super().__init__(name)
+    def __init__(self,
+                 name: str,
+                 filename: str,
+                 path: str = 'dataset/data-from-internet/static',
+                 **kwargs):
+        super().__init__(name, **kwargs)
         self.filename = filename
         self.path = path
 
