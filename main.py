@@ -1,5 +1,6 @@
 from spiders import *
 from spiders.dfzq import Dfzq
+from spiders.gtja import GtjaCommonProblem
 from spiders.shzq import ShzqIPO, ShzqInvestors
 from spiders.utils.run import run
 
@@ -15,6 +16,7 @@ def main():
         ShzqInvestors,
     ]
     testing_spiders = [
+        GtjaCommonProblem
     ]
     # run(tested_spiders)
     run(testing_spiders)
