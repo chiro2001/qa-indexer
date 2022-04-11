@@ -7,7 +7,7 @@ class Dfzq(StaticSpider):
     def __init__(self):
         super().__init__(Dfzq.NAME, "FAQ _ 東方金融控股（香港）有限公司.html")
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         soup = Soup(html, "html.parser")
         qa_box = soup.select_one('div[class="inner-box"]')
         classifications = qa_box.select('div[class="item"]')

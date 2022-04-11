@@ -7,7 +7,7 @@ class Dummy(BaseSpider):
     def __init__(self):
         super().__init__(Dummy.NAME)
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         logger.info("parsing html")
         return [QaItem("Q", "A"), ]
 
@@ -15,6 +15,6 @@ class Dummy(BaseSpider):
         logger.info("fetching page count")
         return 1
 
-    def fetch_page_html(self, page: int = None) -> str:
+    def fetch_page_content(self, page: int = None) -> str:
         logger.info(f"fetching html from page {page}")
         return ""

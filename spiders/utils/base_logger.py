@@ -12,6 +12,7 @@ def get_logger():
             ' %(message)s')
         stream_handler.setFormatter(color_formatter)
         logger_base.addHandler(stream_handler)
+        logger_base.setLevel(logging.INFO)
         return logger_base
     else:
         return logger

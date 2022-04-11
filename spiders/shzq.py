@@ -20,7 +20,7 @@ class Shzq(StaticSpider):
         )
 
     @abstractmethod
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         pass
 
 
@@ -28,7 +28,7 @@ class ShzqIPO(Shzq):
     def __init__(self):
         super().__init__("IPO常见问题 _ 上海证券交易所.html", out_file=f"{ShzqIPO.NAME}-IPO.json")
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         soup = Soup(html, "html.parser")
         qa: List[QaItem] = []
         classification_name = "IPO常见问题"
@@ -43,7 +43,7 @@ class ShzqInvestors(Shzq):
     def __init__(self):
         super().__init__("公众咨询服务热线常见问题 _ 上海证券交易所.html", out_file=f"{ShzqIPO.NAME}-Investors.json")
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         soup = Soup(html, "html.parser")
         qa: List[QaItem] = []
         qa_box = soup.select_one('div[class="sse_wrap_cn_con"]')

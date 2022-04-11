@@ -7,7 +7,7 @@ class GtjaCommonProblem(StaticSpider):
     def __init__(self):
         super().__init__(GtjaCommonProblem.NAME, "常见问题-国泰君安证券福建站官网.html")
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         qa: List[QaItem] = []
         soup = Soup(html, "html.parser")
         qa_box = soup.select_one('ul[class="proplem-qa"]')

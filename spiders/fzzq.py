@@ -7,7 +7,7 @@ class Fzzq(StaticSpider):
     def __init__(self):
         super().__init__(Fzzq.NAME, "方正证券-资讯.html")
 
-    def parse_html(self, html: str) -> List[QaItem]:
+    def parse_content(self, html: str, **kwargs) -> List[QaItem]:
         soup = Soup(html, "html.parser")
         qa: List[QaItem] = []
         qa_box = soup.select_one('div[class="k-infor_d-3"]')
