@@ -140,7 +140,8 @@ class PingAn(WebSpider):
             answer=a,
             other={
                 'classification': content['categorys'][0]['parentName'],
-                'categoryName': content['categorys'][0]['categoryName']
+                'categoryName': content['categorys'][0]['categoryName'],
+                'keywords': content['keywords']
             }
         ), ]
 

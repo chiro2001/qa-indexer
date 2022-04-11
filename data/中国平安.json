@@ -5,6 +5,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "T日",
       "source": "中国平安"
     }
   },
@@ -14,6 +15,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "新建定投计划当天是否可以下单？",
       "source": "中国平安"
     }
   },
@@ -23,6 +25,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "如何创建定投计划？",
       "source": "中国平安"
     }
   },
@@ -32,6 +35,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "分红后,  基金净值、收益、市值如何变化？",
       "source": "中国平安"
     }
   },
@@ -41,6 +45,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "修改基金分红方式生效规则？",
       "source": "中国平安"
     }
   },
@@ -50,6 +55,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "什么时候申赎可参与分红？",
       "source": "中国平安"
     }
   },
@@ -59,6 +65,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "认购/申购可以撤销吗？",
       "source": "中国平安"
     }
   },
@@ -68,6 +75,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "定投周期有哪些类型？",
       "source": "中国平安"
     }
   },
@@ -77,6 +85,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "定投扣款的时间？",
       "source": "中国平安"
     }
   },
@@ -86,6 +95,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "如何修改/取消定投计划？",
       "source": "中国平安"
     }
   },
@@ -95,6 +105,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "定投计划自动暂停的有哪些情况？",
       "source": "中国平安"
     }
   },
@@ -104,6 +115,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "交易撤单后资金会原路返回吗？",
       "source": "中国平安"
     }
   },
@@ -113,6 +125,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "赎回费、金额",
       "source": "中国平安"
     }
   },
@@ -122,6 +135,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "基金申购、赎回如何确定成交价？",
       "source": "中国平安"
     }
   },
@@ -131,6 +145,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "基金、种类",
       "source": "中国平安"
     }
   },
@@ -140,6 +155,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "修改定投,生效",
       "source": "中国平安"
     }
   },
@@ -149,6 +165,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "扣款日当天暂停定投计划还会扣款吗？",
       "source": "中国平安"
     }
   },
@@ -158,6 +175,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "定投的支付方式有哪些？",
       "source": "中国平安"
     }
   },
@@ -167,6 +185,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "前端、后端申购模式",
       "source": "中国平安"
     }
   },
@@ -176,6 +195,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "权益登记日、除息日",
       "source": "中国平安"
     }
   },
@@ -185,6 +205,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "分红方式",
       "source": "中国平安"
     }
   },
@@ -194,6 +215,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "ETF",
       "source": "中国平安"
     }
   },
@@ -203,6 +225,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "认购,申购,区别",
       "source": "中国平安"
     }
   },
@@ -212,6 +235,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "定期定额,申购",
       "source": "中国平安"
     }
   },
@@ -221,6 +245,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "单位净值、累计净值",
       "source": "中国平安"
     }
   },
@@ -230,6 +255,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "管理费,销售服务费",
       "source": "中国平安"
     }
   },
@@ -239,6 +265,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "开放式,封闭式,区别",
       "source": "中国平安"
     }
   },
@@ -248,6 +275,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "基金基础问题",
+      "keywords": "转换",
       "source": "中国平安"
     }
   },
@@ -257,6 +285,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -266,6 +295,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "万份收益,七日年化率,",
       "source": "中国平安"
     }
   },
@@ -275,6 +305,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -284,6 +315,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -293,6 +325,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "活钱宝,交易规则,赎回到账,快赎",
       "source": "中国平安"
     }
   },
@@ -302,6 +335,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "快速取现、现金宝、取现、银行",
       "source": "中国平安"
     }
   },
@@ -311,6 +345,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "业绩报酬",
       "source": "中国平安"
     }
   },
@@ -320,6 +355,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -329,6 +365,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -338,6 +375,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "保留金",
       "source": "中国平安"
     }
   },
@@ -347,6 +385,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "预约快速取现",
       "source": "中国平安"
     }
   },
@@ -356,6 +395,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝普通取现",
       "source": "中国平安"
     }
   },
@@ -365,6 +405,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -374,6 +415,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "保留金额规则",
       "source": "中国平安"
     }
   },
@@ -383,6 +425,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -392,6 +435,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -401,6 +445,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -410,6 +455,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -419,6 +465,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -428,6 +475,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -437,6 +485,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -446,6 +495,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -455,6 +505,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -464,6 +515,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利,收益",
       "source": "中国平安"
     }
   },
@@ -473,6 +525,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金利",
       "source": "中国平安"
     }
   },
@@ -482,6 +535,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝待",
       "source": "中国平安"
     }
   },
@@ -491,6 +545,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝、退出",
       "source": "中国平安"
     }
   },
@@ -500,6 +555,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -509,6 +565,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -518,6 +575,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝产品收益",
       "source": "中国平安"
     }
   },
@@ -527,6 +585,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "现金宝",
       "source": "中国平安"
     }
   },
@@ -536,6 +595,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "活期理财",
+      "keywords": "活钱宝,预约购买,快赎到账",
       "source": "中国平安"
     }
   },
@@ -545,6 +605,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "港澳台、外籍、机构户",
       "source": "中国平安"
     }
   },
@@ -554,6 +615,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -563,6 +625,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "资料不完善,不是合格投资者",
       "source": "中国平安"
     }
   },
@@ -572,6 +635,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "视频",
       "source": "中国平安"
     }
   },
@@ -581,6 +645,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "强制,阅读,风险揭示",
       "source": "中国平安"
     }
   },
@@ -590,6 +655,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "签名、不通过",
       "source": "中国平安"
     }
   },
@@ -599,6 +665,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "双录,视频",
       "source": "中国平安"
     }
   },
@@ -608,6 +675,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "双录,视频",
       "source": "中国平安"
     }
   },
@@ -617,6 +685,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "双录,视频",
       "source": "中国平安"
     }
   },
@@ -626,6 +695,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "退出问题",
       "source": "中国平安"
     }
   },
@@ -635,6 +705,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "双录问题",
       "source": "中国平安"
     }
   },
@@ -644,6 +715,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "失败问题",
       "source": "中国平安"
     }
   },
@@ -653,6 +725,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -662,6 +735,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -671,6 +745,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -680,6 +755,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -689,6 +765,7 @@
     "other": {
       "classification": "基金理财",
       "categoryName": "私募基金问题",
+      "keywords": "私募购买问题",
       "source": "中国平安"
     }
   },
@@ -698,6 +775,7 @@
     "other": {
       "classification": "新三板",
       "categoryName": "新三板交易指南",
+      "keywords": "新三板指南",
       "source": "中国平安"
     }
   },
@@ -707,6 +785,7 @@
     "other": {
       "classification": "新三板",
       "categoryName": "新三板交易指南",
+      "keywords": "新三板创新层集合竞价",
       "source": "中国平安"
     }
   },
@@ -716,6 +795,7 @@
     "other": {
       "classification": "新三板",
       "categoryName": "新三板交易指南",
+      "keywords": "新三板基础层集合竞价",
       "source": "中国平安"
     }
   },
@@ -725,6 +805,7 @@
     "other": {
       "classification": "新三板",
       "categoryName": "新三板交易指南",
+      "keywords": "新三板集合竞价",
       "source": "中国平安"
     }
   },
@@ -734,6 +815,7 @@
     "other": {
       "classification": "新三板",
       "categoryName": "新三板交易指南",
+      "keywords": "新三板交易规则",
       "source": "中国平安"
     }
   },
@@ -743,6 +825,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -752,6 +835,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -761,6 +845,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -770,6 +855,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -779,6 +865,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -788,6 +875,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -797,6 +885,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -806,6 +895,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -815,6 +905,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -824,6 +915,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券开户手册",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -833,6 +925,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "折算率",
       "source": "中国平安"
     }
   },
@@ -842,6 +935,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "信用帐户、融资",
       "source": "中国平安"
     }
   },
@@ -851,6 +945,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "融资融券",
       "source": "中国平安"
     }
   },
@@ -860,6 +955,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "担保物",
       "source": "中国平安"
     }
   },
@@ -869,6 +965,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "保证金",
       "source": "中国平安"
     }
   },
@@ -878,6 +975,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "修改还款模式",
       "source": "中国平安"
     }
   },
@@ -887,6 +985,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "查询",
       "source": "中国平安"
     }
   },
@@ -896,6 +995,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "信用额度调整",
       "source": "中国平安"
     }
   },
@@ -905,6 +1005,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "撤单",
       "source": "中国平安"
     }
   },
@@ -914,6 +1015,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "信用交易",
       "source": "中国平安"
     }
   },
@@ -923,6 +1025,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "划转担保品",
       "source": "中国平安"
     }
   },
@@ -932,6 +1035,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "普通交易",
       "source": "中国平安"
     }
   },
@@ -941,6 +1045,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "登入帐户",
       "source": "中国平安"
     }
   },
@@ -950,6 +1055,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "划转现金",
       "source": "中国平安"
     }
   },
@@ -959,6 +1065,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "负债查询",
       "source": "中国平安"
     }
   },
@@ -968,6 +1075,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "归还融券息费",
       "source": "中国平安"
     }
   },
@@ -977,6 +1085,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "风险提示",
       "source": "中国平安"
     }
   },
@@ -986,6 +1095,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "融资买入、融券卖出",
       "source": "中国平安"
     }
   },
@@ -995,6 +1105,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "了结合约",
       "source": "中国平安"
     }
   },
@@ -1004,6 +1115,7 @@
     "other": {
       "classification": "融资",
       "categoryName": "融资融券",
+      "keywords": "合约展期",
       "source": "中国平安"
     }
   },
@@ -1013,6 +1125,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1022,6 +1135,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1031,6 +1145,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1040,6 +1155,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1049,6 +1165,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板生效时间",
       "source": "中国平安"
     }
   },
@@ -1058,6 +1175,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1067,6 +1185,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1076,6 +1195,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1085,6 +1205,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "开通创业板",
       "source": "中国平安"
     }
   },
@@ -1094,6 +1215,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1103,6 +1225,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1112,6 +1235,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1121,6 +1245,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1130,6 +1255,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1139,6 +1265,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1148,6 +1275,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "功能开通",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1157,6 +1285,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1166,6 +1295,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "新股/新债上市交易规则一览",
       "source": "中国平安"
     }
   },
@@ -1175,6 +1305,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板盘后行情怎么看",
       "source": "中国平安"
     }
   },
@@ -1184,6 +1315,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "为什么不能操作创业板股票预设委托",
       "source": "中国平安"
     }
   },
@@ -1193,6 +1325,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板注册制股票交易指南/注册制改革后,交易规则有7大变化",
       "source": "中国平安"
     }
   },
@@ -1202,6 +1335,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板融资融券业务特别规定",
       "source": "中国平安"
     }
   },
@@ -1211,6 +1345,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "如何操作盘后定价申报？",
       "source": "中国平安"
     }
   },
@@ -1220,6 +1355,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板VS科创板VS新三板三大板块规则有哪些不一样",
       "source": "中国平安"
     }
   },
@@ -1229,6 +1365,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "注册制创业板最全打新攻略",
       "source": "中国平安"
     }
   },
@@ -1238,6 +1375,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1247,6 +1385,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1256,6 +1395,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板转签",
       "source": "中国平安"
     }
   },
@@ -1265,6 +1405,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1274,6 +1415,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1283,6 +1425,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1292,6 +1435,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1301,6 +1445,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板销户",
       "source": "中国平安"
     }
   },
@@ -1310,6 +1455,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1319,6 +1465,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1328,6 +1475,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1337,6 +1485,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1346,6 +1495,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1355,6 +1505,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1364,6 +1515,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1373,6 +1525,7 @@
     "other": {
       "classification": "创业板",
       "categoryName": "交易指南",
+      "keywords": "创业板",
       "source": "中国平安"
     }
   },
@@ -1382,6 +1535,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1391,6 +1545,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1400,6 +1555,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1409,6 +1565,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "沪港通、深港通、QFIIR、QFII",
       "source": "中国平安"
     }
   },
@@ -1418,6 +1575,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "APP、深港通",
       "source": "中国平安"
     }
   },
@@ -1427,6 +1585,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1436,6 +1595,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通研究报告",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1445,6 +1605,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通热点解读",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1454,6 +1615,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通热点解读",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1463,6 +1625,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通热点解读",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1472,6 +1635,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通热点解读",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1481,6 +1645,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通功能开通",
+      "keywords": "PC、开通港股通、港股通",
       "source": "中国平安"
     }
   },
@@ -1490,6 +1655,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通功能开通",
+      "keywords": "计算市值、港股通、抵押",
       "source": "中国平安"
     }
   },
@@ -1499,6 +1665,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通功能开通",
+      "keywords": "港股通",
       "source": "中国平安"
     }
   },
@@ -1508,6 +1675,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通功能开通",
+      "keywords": "签约失败、失败、港股通",
       "source": "中国平安"
     }
   },
@@ -1517,6 +1685,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通交易指南",
+      "keywords": "收费标准",
       "source": "中国平安"
     }
   },
@@ -1526,6 +1695,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通交易指南",
+      "keywords": "港股通、风险警示标记",
       "source": "中国平安"
     }
   },
@@ -1535,6 +1705,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通交易指南",
+      "keywords": "港股、港股交易、风险",
       "source": "中国平安"
     }
   },
@@ -1544,6 +1715,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通交易指南",
+      "keywords": "特殊风险、港股",
       "source": "中国平安"
     }
   },
@@ -1553,6 +1725,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "港股通交易指南",
+      "keywords": "港股通",
       "source": "中国平安"
     }
   },
@@ -1562,6 +1735,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "加挂,指定交易",
       "source": "中国平安"
     }
   },
@@ -1571,6 +1745,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "销户",
       "source": "中国平安"
     }
   },
@@ -1580,6 +1755,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "官方电话",
       "source": "中国平安"
     }
   },
@@ -1589,6 +1765,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "两融,融资,融券",
       "source": "中国平安"
     }
   },
@@ -1598,6 +1775,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "期货开户",
       "source": "中国平安"
     }
   },
@@ -1607,6 +1785,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "身份证有效期、身份证有效期更新、升位",
       "source": "中国平安"
     }
   },
@@ -1616,6 +1795,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "资料、完善",
       "source": "中国平安"
     }
   },
@@ -1625,6 +1805,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "债券、债券合格投资者准入",
       "source": "中国平安"
     }
   },
@@ -1634,6 +1815,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "风险警示、风险揭示书、APP",
       "source": "中国平安"
     }
   },
@@ -1643,6 +1825,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "业务办理",
+      "keywords": "退市、风险、APP",
       "source": "中国平安"
     }
   },
@@ -1652,6 +1835,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "决策智赢,短线宝,龙腾四海,资金博弈,神奇九转",
       "source": "中国平安"
     }
   },
@@ -1661,6 +1845,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "Level-2、Level2、Level2、决策工具",
       "source": "中国平安"
     }
   },
@@ -1670,6 +1855,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "形态,形态雷达",
       "source": "中国平安"
     }
   },
@@ -1679,6 +1865,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "相似K线、决策工具",
       "source": "中国平安"
     }
   },
@@ -1688,6 +1875,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "九转交易",
       "source": "中国平安"
     }
   },
@@ -1697,6 +1885,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "脱水研报",
       "source": "中国平安"
     }
   },
@@ -1706,6 +1895,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "龙腾四海",
       "source": "中国平安"
     }
   },
@@ -1715,6 +1905,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "短线宝",
       "source": "中国平安"
     }
   },
@@ -1724,6 +1915,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "底部掘金",
       "source": "中国平安"
     }
   },
@@ -1733,6 +1925,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "象限交易法使用指南",
       "source": "中国平安"
     }
   },
@@ -1742,6 +1935,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "牛熊操盘",
       "source": "中国平安"
     }
   },
@@ -1751,6 +1945,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "尾盘揭秘 尾盘点评",
       "source": "中国平安"
     }
   },
@@ -1760,6 +1955,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "主力筹码",
       "source": "中国平安"
     }
   },
@@ -1769,6 +1965,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "资金博弈、决策工具",
       "source": "中国平安"
     }
   },
@@ -1778,6 +1975,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "D信号、决策工具",
       "source": "中国平安"
     }
   },
@@ -1787,6 +1985,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "双突战法、决策工具",
       "source": "中国平安"
     }
   },
@@ -1796,6 +1995,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "决策工具",
+      "keywords": "最新信号使用指南",
       "source": "中国平安"
     }
   },
@@ -1805,6 +2005,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "两融资产盈亏、清仓股、持仓明细功能",
       "source": "中国平安"
     }
   },
@@ -1814,6 +2015,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "新增股转待申购列表",
       "source": "中国平安"
     }
   },
@@ -1823,6 +2025,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "本个股F10",
       "source": "中国平安"
     }
   },
@@ -1832,6 +2035,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "消息推送",
       "source": "中国平安"
     }
   },
@@ -1841,6 +2045,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "开户进度",
       "source": "中国平安"
     }
   },
@@ -1850,6 +2055,7 @@
     "other": {
       "classification": "港股通",
       "categoryName": "深港通业务介绍",
+      "keywords": "APP、深港通",
       "source": "中国平安"
     }
   },
@@ -1859,6 +2065,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "深港通",
       "source": "中国平安"
     }
   },
@@ -1868,6 +2075,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "智能登陆",
       "source": "中国平安"
     }
   },
@@ -1877,6 +2085,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账",
       "source": "中国平安"
     }
   },
@@ -1886,6 +2095,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "短信提醒,短信预警,盯盘",
       "source": "中国平安"
     }
   },
@@ -1895,6 +2105,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "投顾组合,科学投顾,兑换,VIP",
       "source": "中国平安"
     }
   },
@@ -1904,6 +2115,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "奖励",
       "source": "中国平安"
     }
   },
@@ -1913,6 +2125,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "股价跌破10日均线",
       "source": "中国平安"
     }
   },
@@ -1922,6 +2135,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "股价在20日均线遇到阻力",
       "source": "中国平安"
     }
   },
@@ -1931,6 +2145,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "均线高位价压",
       "source": "中国平安"
     }
   },
@@ -1940,6 +2155,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "均线空头排列",
       "source": "中国平安"
     }
   },
@@ -1949,6 +2165,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "一阴破多线",
       "source": "中国平安"
     }
   },
@@ -1958,6 +2175,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "5日均线突破30日均线",
       "source": "中国平安"
     }
   },
@@ -1967,6 +2185,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "股价突破10日均线",
       "source": "中国平安"
     }
   },
@@ -1976,6 +2195,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "均线多头排列",
       "source": "中国平安"
     }
   },
@@ -1985,6 +2205,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "均线价托",
       "source": "中国平安"
     }
   },
@@ -1994,6 +2215,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "一阳穿多线",
       "source": "中国平安"
     }
   },
@@ -2003,6 +2225,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "5日均线跌破30日均线",
       "source": "中国平安"
     }
   },
@@ -2012,6 +2235,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "国有股, 法人股, 社会公众股",
       "source": "中国平安"
     }
   },
@@ -2021,6 +2245,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "ST股票",
       "source": "中国平安"
     }
   },
@@ -2030,6 +2255,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "股票换手率, 换手率",
       "source": "中国平安"
     }
   },
@@ -2039,6 +2265,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "绩效股",
       "source": "中国平安"
     }
   },
@@ -2048,6 +2275,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "分类",
       "source": "中国平安"
     }
   },
@@ -2057,6 +2285,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "基本面, 技术面",
       "source": "中国平安"
     }
   },
@@ -2066,6 +2295,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "成交量",
       "source": "中国平安"
     }
   },
@@ -2075,6 +2305,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "术语",
       "source": "中国平安"
     }
   },
@@ -2084,6 +2315,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "撤单、撤单后快速下单",
       "source": "中国平安"
     }
   },
@@ -2093,6 +2325,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "自选股",
       "source": "中国平安"
     }
   },
@@ -2102,6 +2335,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "DDE决策系统",
       "source": "中国平安"
     }
   },
@@ -2111,6 +2345,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "资金流向、大单占比",
       "source": "中国平安"
     }
   },
@@ -2120,6 +2355,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "BS买卖指标",
       "source": "中国平安"
     }
   },
@@ -2129,6 +2365,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "买卖总量",
       "source": "中国平安"
     }
   },
@@ -2138,6 +2375,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "模拟炒股",
       "source": "中国平安"
     }
   },
@@ -2147,6 +2385,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "数据中心",
       "source": "中国平安"
     }
   },
@@ -2156,6 +2395,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "财富直播",
       "source": "中国平安"
     }
   },
@@ -2165,6 +2405,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "诊股",
       "source": "中国平安"
     }
   },
@@ -2174,6 +2415,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "直播、声音",
       "source": "中国平安"
     }
   },
@@ -2183,6 +2425,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "五日分数图、APP",
       "source": "中国平安"
     }
   },
@@ -2192,6 +2435,7 @@
     "other": {
       "classification": "APP指南",
       "categoryName": "APP操作指南",
+      "keywords": "历史分时图",
       "source": "中国平安"
     }
   },
@@ -2201,6 +2445,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "7*24小时,银证转账,Q&A",
       "source": "中国平安"
     }
   },
@@ -2210,6 +2455,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "转账提示",
       "source": "中国平安"
     }
   },
@@ -2219,6 +2465,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账失败",
       "source": "中国平安"
     }
   },
@@ -2228,6 +2475,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "绑定三方存管、转钱、证券帐户、转回银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -2237,6 +2485,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账、银行",
       "source": "中国平安"
     }
   },
@@ -2246,6 +2495,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账",
       "source": "中国平安"
     }
   },
@@ -2255,6 +2505,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账、手续费",
       "source": "中国平安"
     }
   },
@@ -2264,6 +2515,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账、规则、转账规则",
       "source": "中国平安"
     }
   },
@@ -2273,6 +2525,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "三方存管、银行、银证",
       "source": "中国平安"
     }
   },
@@ -2282,6 +2535,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "三方存管",
       "source": "中国平安"
     }
   },
@@ -2291,6 +2545,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "绑定",
       "source": "中国平安"
     }
   },
@@ -2300,6 +2555,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "变更第三方存管",
       "source": "中国平安"
     }
   },
@@ -2309,6 +2565,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "转账不成功、转账失败",
       "source": "中国平安"
     }
   },
@@ -2318,6 +2575,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "当天、三方存管、转托管、销户手续",
       "source": "中国平安"
     }
   },
@@ -2327,6 +2585,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "手续、单客户多银行、单客户、多银行",
       "source": "中国平安"
     }
   },
@@ -2336,6 +2595,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "利率、结息",
       "source": "中国平安"
     }
   },
@@ -2345,6 +2605,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "三方转入、转出、限制",
       "source": "中国平安"
     }
   },
@@ -2354,6 +2615,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "三方存管账户、密码有误、密码错误",
       "source": "中国平安"
     }
   },
@@ -2363,6 +2625,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "银证转账、提示",
       "source": "中国平安"
     }
   },
@@ -2372,6 +2635,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "银证转账",
+      "keywords": "招行、余额、查询余额",
       "source": "中国平安"
     }
   },
@@ -2381,6 +2645,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,逆回购",
       "source": "中国平安"
     }
   },
@@ -2390,6 +2655,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "逆回购",
       "source": "中国平安"
     }
   },
@@ -2399,6 +2665,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "逆回购",
       "source": "中国平安"
     }
   },
@@ -2408,6 +2675,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,逆回购",
       "source": "中国平安"
     }
   },
@@ -2417,6 +2685,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,收益",
       "source": "中国平安"
     }
   },
@@ -2426,6 +2695,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,逆回购",
       "source": "中国平安"
     }
   },
@@ -2435,6 +2705,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,逆回购",
       "source": "中国平安"
     }
   },
@@ -2444,6 +2715,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "国债理财,逆回购",
       "source": "中国平安"
     }
   },
@@ -2453,6 +2725,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "国债理财",
+      "keywords": "逆回购、交易",
       "source": "中国平安"
     }
   },
@@ -2462,6 +2735,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "商品期货账户,期权仿真账户,期权开户",
       "source": "中国平安"
     }
   },
@@ -2471,6 +2745,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "保证金账号",
       "source": "中国平安"
     }
   },
@@ -2480,6 +2755,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "非套利指令,套利单",
       "source": "中国平安"
     }
   },
@@ -2489,6 +2765,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "下单数量",
       "source": "中国平安"
     }
   },
@@ -2498,6 +2775,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "模拟交易",
       "source": "中国平安"
     }
   },
@@ -2507,6 +2785,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "服务热线,服务电话,人工,客服电话",
       "source": "中国平安"
     }
   },
@@ -2516,6 +2795,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "无法使用手机端软件,不能使用手机端软件",
       "source": "中国平安"
     }
   },
@@ -2525,6 +2805,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "更改电话,更改手机,更改地址",
       "source": "中国平安"
     }
   },
@@ -2534,6 +2815,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "取消银期关联,解约",
       "source": "中国平安"
     }
   },
@@ -2543,6 +2825,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "验证码",
       "source": "中国平安"
     }
   },
@@ -2552,6 +2835,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "上传失败,上传身份证失败,上传银行卡失败, 无法上传",
       "source": "中国平安"
     }
   },
@@ -2561,6 +2845,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "数字证书,安装数字证书失败, 安装失败,无法安装",
       "source": "中国平安"
     }
   },
@@ -2570,6 +2855,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "协议,签署协议",
       "source": "中国平安"
     }
   },
@@ -2579,6 +2865,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "股指期货,金融期货,国债期货,股指",
       "source": "中国平安"
     }
   },
@@ -2588,6 +2875,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "原油期货",
       "source": "中国平安"
     }
   },
@@ -2597,6 +2885,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "绑定银行卡,银期关联",
       "source": "中国平安"
     }
   },
@@ -2606,6 +2895,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "更改银行,增加银行",
       "source": "中国平安"
     }
   },
@@ -2615,6 +2905,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "平安银行",
       "source": "中国平安"
     }
   },
@@ -2624,6 +2915,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "工商银行,工行",
       "source": "中国平安"
     }
   },
@@ -2633,6 +2925,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "中行,中国银行",
       "source": "中国平安"
     }
   },
@@ -2642,6 +2935,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "农行,农业银行,",
       "source": "中国平安"
     }
   },
@@ -2651,6 +2945,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "出入金,出金,入金,转账",
       "source": "中国平安"
     }
   },
@@ -2660,6 +2955,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "CTP出金,QDP出金,飞鼠出金",
       "source": "中国平安"
     }
   },
@@ -2669,6 +2965,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "修改交易密码,修改密码",
       "source": "中国平安"
     }
   },
@@ -2678,6 +2975,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "结算价",
       "source": "中国平安"
     }
   },
@@ -2687,6 +2985,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "结算单,账单",
       "source": "中国平安"
     }
   },
@@ -2696,6 +2995,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "交易软件,软件,下载软件",
       "source": "中国平安"
     }
   },
@@ -2705,6 +3005,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "不能登录,无法登录,登录",
       "source": "中国平安"
     }
   },
@@ -2714,6 +3015,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "网关",
       "source": "中国平安"
     }
   },
@@ -2723,6 +3025,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "与服务器断开,无法连接",
       "source": "中国平安"
     }
   },
@@ -2732,6 +3035,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "无权限",
       "source": "中国平安"
     }
   },
@@ -2741,6 +3045,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "不合法登录,不合法",
       "source": "中国平安"
     }
   },
@@ -2750,6 +3055,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "连接超时",
       "source": "中国平安"
     }
   },
@@ -2759,6 +3065,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "未知错误",
       "source": "中国平安"
     }
   },
@@ -2768,6 +3075,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "null错误",
       "source": "中国平安"
     }
   },
@@ -2777,6 +3085,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "合约月份与实际不一致",
       "source": "中国平安"
     }
   },
@@ -2786,6 +3095,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "异常,慢,卡,断线,加载慢",
       "source": "中国平安"
     }
   },
@@ -2795,6 +3105,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "人数已满",
       "source": "中国平安"
     }
   },
@@ -2804,6 +3115,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "平仓盈亏不显示",
       "source": "中国平安"
     }
   },
@@ -2813,6 +3125,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "软件升级",
       "source": "中国平安"
     }
   },
@@ -2822,6 +3135,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "无此用户名",
       "source": "中国平安"
     }
   },
@@ -2831,6 +3145,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "行情无法显示",
       "source": "中国平安"
     }
   },
@@ -2840,6 +3155,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "不显示分时图,分时图不显示",
       "source": "中国平安"
     }
   },
@@ -2849,6 +3165,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "KSI超时",
       "source": "中国平安"
     }
   },
@@ -2858,6 +3175,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "读取系统指标配置文件时出现错误",
       "source": "中国平安"
     }
   },
@@ -2867,6 +3185,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "取消持仓线,取消委托线",
       "source": "中国平安"
     }
   },
@@ -2876,6 +3195,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "行情账号,行情账号申请",
       "source": "中国平安"
     }
   },
@@ -2885,6 +3205,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "条件单修改,修改条件单",
       "source": "中国平安"
     }
   },
@@ -2894,6 +3215,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "使用说明",
       "source": "中国平安"
     }
   },
@@ -2903,6 +3225,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "下单失败,闪电手下单失败",
       "source": "中国平安"
     }
   },
@@ -2912,6 +3235,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "快期无法登录,快期不合法登录,快期登录",
       "source": "中国平安"
     }
   },
@@ -2921,6 +3245,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "资金不一致",
       "source": "中国平安"
     }
   },
@@ -2930,6 +3255,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "CTP无法撤单,CTP无法下单",
       "source": "中国平安"
     }
   },
@@ -2939,6 +3265,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "切换CTP",
       "source": "中国平安"
     }
   },
@@ -2948,6 +3275,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "TB",
       "source": "中国平安"
     }
   },
@@ -2957,6 +3285,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "MC达钱",
       "source": "中国平安"
     }
   },
@@ -2966,6 +3295,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "点差,隔夜费,递延费,税费",
       "source": "中国平安"
     }
   },
@@ -2975,6 +3305,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "手续费多少,手续费",
       "source": "中国平安"
     }
   },
@@ -2984,6 +3315,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "一手多少钱,保证金,杠杆",
       "source": "中国平安"
     }
   },
@@ -2993,6 +3325,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "套利保证金",
       "source": "中国平安"
     }
   },
@@ -3002,6 +3335,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "资讯,行情,策略",
       "source": "中国平安"
     }
   },
@@ -3011,6 +3345,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "新手",
       "source": "中国平安"
     }
   },
@@ -3020,6 +3355,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "交易价格,排队价,对手价,市价,最新价,超价",
       "source": "中国平安"
     }
   },
@@ -3029,6 +3365,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "无法下单,无法交易",
       "source": "中国平安"
     }
   },
@@ -3038,6 +3375,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "交割",
       "source": "中国平安"
     }
   },
@@ -3047,6 +3385,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "进入交割月",
       "source": "中国平安"
     }
   },
@@ -3056,6 +3395,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "交割条件",
       "source": "中国平安"
     }
   },
@@ -3065,6 +3405,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "周一不对,周一盈利,周一平仓盈利,盈利不对",
       "source": "中国平安"
     }
   },
@@ -3074,6 +3415,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "扩板",
       "source": "中国平安"
     }
   },
@@ -3083,6 +3425,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "强减",
       "source": "中国平安"
     }
   },
@@ -3092,6 +3435,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "强平",
       "source": "中国平安"
     }
   },
@@ -3101,6 +3445,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "市价指令,市价",
       "source": "中国平安"
     }
   },
@@ -3110,6 +3455,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "最大下单手数",
       "source": "中国平安"
     }
   },
@@ -3119,6 +3465,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "可平仓位不足",
       "source": "中国平安"
     }
   },
@@ -3128,6 +3475,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "可用资金没变化",
       "source": "中国平安"
     }
   },
@@ -3137,6 +3485,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "最后交易日",
       "source": "中国平安"
     }
   },
@@ -3146,6 +3495,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "平今",
       "source": "中国平安"
     }
   },
@@ -3155,6 +3505,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "套利单优惠",
       "source": "中国平安"
     }
   },
@@ -3164,6 +3515,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "冻结保证金和手续费大于可用资金",
       "source": "中国平安"
     }
   },
@@ -3173,6 +3525,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "确认账单,账单确认",
       "source": "中国平安"
     }
   },
@@ -3182,6 +3535,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "收盘价,结算价",
       "source": "中国平安"
     }
   },
@@ -3191,6 +3545,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "期货咨询",
+      "keywords": "夜盘交易时间",
       "source": "中国平安"
     }
   },
@@ -3200,6 +3555,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "各银行激活指引",
+      "keywords": "浦发银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -3209,6 +3565,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "各银行激活指引",
+      "keywords": "招商银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -3218,6 +3575,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "各银行激活指引",
+      "keywords": "平安银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -3227,6 +3585,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "各银行激活指引",
+      "keywords": "广发银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -3236,6 +3595,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "各银行激活指引",
+      "keywords": "中信银行、银证转账",
       "source": "中国平安"
     }
   },
@@ -3245,6 +3605,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "新股申购",
+      "keywords": "多次认购",
       "source": "中国平安"
     }
   },
@@ -3254,6 +3615,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "新股申购",
+      "keywords": "新股申购、APP",
       "source": "中国平安"
     }
   },
@@ -3263,6 +3625,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "新股申购",
+      "keywords": "新股申购、新股",
       "source": "中国平安"
     }
   },
@@ -3272,6 +3635,7 @@
     "other": {
       "classification": "股票交易",
       "categoryName": "新股申购",
+      "keywords": "新股申购、新股",
       "source": "中国平安"
     }
   },
@@ -3281,6 +3645,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "科创板开户",
+      "keywords": "科创板,相关问题,解答",
       "source": "中国平安"
     }
   },
@@ -3290,6 +3655,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "科创板开户",
+      "keywords": "科创板交易权限",
       "source": "中国平安"
     }
   },
@@ -3299,6 +3665,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "科创板开户",
+      "keywords": "科创板",
       "source": "中国平安"
     }
   },
@@ -3308,6 +3675,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "科创板开户",
+      "keywords": "科创板,交易规则",
       "source": "中国平安"
     }
   },
@@ -3317,6 +3685,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "在线开股票户",
+      "keywords": "股票开户",
       "source": "中国平安"
     }
   },
@@ -3326,6 +3695,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "在线开股票户",
+      "keywords": "港澳台、开户",
       "source": "中国平安"
     }
   },
@@ -3335,6 +3705,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "在线开股票户",
+      "keywords": "开户",
       "source": "中国平安"
     }
   },
@@ -3344,6 +3715,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "保单开户",
+      "keywords": "保单开户",
       "source": "中国平安"
     }
   },
@@ -3353,6 +3725,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "席位号",
       "source": "中国平安"
     }
   },
@@ -3362,6 +3735,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "查看完整资金账号",
       "source": "中国平安"
     }
   },
@@ -3371,6 +3745,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "客服",
       "source": "中国平安"
     }
   },
@@ -3380,6 +3755,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "资金转入、激活、激活帐户",
       "source": "中国平安"
     }
   },
@@ -3389,6 +3765,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "营业部",
       "source": "中国平安"
     }
   },
@@ -3398,6 +3775,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "开通创业板、加挂",
       "source": "中国平安"
     }
   },
@@ -3407,6 +3785,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "一码通",
       "source": "中国平安"
     }
   },
@@ -3416,6 +3795,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "开户、身份证、身份证有效期",
       "source": "中国平安"
     }
   },
@@ -3425,6 +3805,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "开户、手机号",
       "source": "中国平安"
     }
   },
@@ -3434,6 +3815,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "营业部",
       "source": "中国平安"
     }
   },
@@ -3443,6 +3825,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "业务办理",
       "source": "中国平安"
     }
   },
@@ -3452,6 +3835,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "佣金",
       "source": "中国平安"
     }
   },
@@ -3461,6 +3845,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "资金账号、股东代码卡",
       "source": "中国平安"
     }
   },
@@ -3470,6 +3855,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "中断、开户",
       "source": "中国平安"
     }
   },
@@ -3479,6 +3865,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "B股帐户、在线办理",
       "source": "中国平安"
     }
   },
@@ -3488,6 +3875,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "查询、帐户",
       "source": "中国平安"
     }
   },
@@ -3497,6 +3885,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "账户开通时间",
       "source": "中国平安"
     }
   },
@@ -3506,6 +3895,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "电话服务流程图",
       "source": "中国平安"
     }
   },
@@ -3515,6 +3905,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "现役军人、开户",
       "source": "中国平安"
     }
   },
@@ -3524,6 +3915,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "创业板、新开股东代码卡、新开、网上开通",
       "source": "中国平安"
     }
   },
@@ -3533,6 +3925,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "收不到验证码、验证码",
       "source": "中国平安"
     }
   },
@@ -3542,6 +3935,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "开户视频、无法连接",
       "source": "中国平安"
     }
   },
@@ -3551,6 +3945,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "开户、开户营业部",
       "source": "中国平安"
     }
   },
@@ -3560,6 +3955,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "常见问题",
+      "keywords": "回访、开户",
       "source": "中国平安"
     }
   },
@@ -3569,6 +3965,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "休眠户激活",
+      "keywords": "中登休眠户激活",
       "source": "中国平安"
     }
   },
@@ -3578,6 +3975,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "休眠户激活",
+      "keywords": "账户限制",
       "source": "中国平安"
     }
   },
@@ -3587,6 +3985,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "休眠户激活",
+      "keywords": "开户、身份证、15位身份证、激活",
       "source": "中国平安"
     }
   },
@@ -3596,6 +3995,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "休眠户激活",
+      "keywords": "撤销指定",
       "source": "中国平安"
     }
   },
@@ -3605,6 +4005,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "休眠户激活",
+      "keywords": "休眠",
       "source": "中国平安"
     }
   },
@@ -3614,6 +4015,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "一人多户",
+      "keywords": "注销、一人多户",
       "source": "中国平安"
     }
   },
@@ -3623,6 +4025,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "一人多户",
+      "keywords": "沪A、深A、开户、一人多户",
       "source": "中国平安"
     }
   },
@@ -3632,6 +4035,7 @@
     "other": {
       "classification": "股票开户",
       "categoryName": "一人多户",
+      "keywords": "开户、一人多户",
       "source": "中国平安"
     }
   }
