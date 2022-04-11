@@ -3,6 +3,7 @@ import os.path
 from abc import *
 from functools import reduce
 from typing import *
+import bs4
 from bs4 import BeautifulSoup as Soup
 
 from spiders.utils.base_logger import logger
