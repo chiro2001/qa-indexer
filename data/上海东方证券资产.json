@@ -1,0 +1,839 @@
+[
+  {
+    "question": "您可点击以下连接查看在我司网上直销平台的开户过程演示",
+    "answer": "<p><span>1）<a href=\"https://www.dfham.com/contents/2018/6/11-55902d1aef614e2da29dea558f326750.html\" target=\"_blank\">官网开户指南</a></span></p>\n<p><span>2）<a href=\"https://www.dfham.com/upload/pdf/1578548511845-APPkaihuzhinan.pdf\" target=\"_blank\">APP开户指南</a></span>\n</p>\n<p><span>3）<a href=\"https://www.dfham.com/contents/2018/6/11-257469c944cd49b0ac81bfb3109287a0.html\" target=\"_blank\" textvalue=\"微信开户指南\">微信开户指南</a></span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "购买东方红系列产品？\n",
+    "answer": "<p><span>像未在东方红资产管理网上直销平台开立直销账户的客户一样，您可按照正常的流程开户，绑定银行卡、填写个人信息、进行风险测评后即可进行开户购买产品。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "购买东方红系列产品？\n",
+    "answer": "<p><span>2017年7月前京东渠道的东方红客户只能通过京东金融的渠道办理查询、交易等业务； 2017年7月后京东渠道的东方红客户可像未在东方红资产管理网上直销平台开立直销账户的客户一样，按照正常的流程开户，绑定银行卡、填写个人信息、进行风险测评后即可进行开户购买产品。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在东方红资产管理的网上直销平台进行开户时，支持使用哪些有效证件？",
+    "answer": "<p><span>东方红资产管理的直销平台的开户申请仅支持18位身份证。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在东方红资产管理的网上直销平台进行开户时，支持绑定哪些银行卡？",
+    "answer": "<p>\n<span>1）东方红资产管理的官网（www.dfham.com）支持开户的银行卡包括：工商银行、建设银行、中国银行、浦发银行、平安银行、光大银行、交通银行、上海银行、广发银行、中信银行、兴业银行、邮储银行</span>\n</p>\n<p><span>2）支持移动端（即东方红手机APP及东方红资产管理的微信服务号）开户的银行卡包括：工商银行、建设银行、中国银行、浦发银行、平安银行、光大银行、交通银行、上海银行、中信银行、兴业银行</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在直销开户时，支持使用非本人的银行卡进行开户吗？",
+    "answer": "<p><span>您本人身份证件所开立的直销账户，只能绑定您本人名下的普通借记卡。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "柜台直销的客户如何通过网上直销平台购买东方红系列产品？",
+    "answer": "<p><span>柜台直销客户可登录东方红资产管理的官网或东方红APP、微信服务号等渠道重新开户、绑定银行卡并设置交易密码后，即可在东方红网上直销平台购买东方红系列产品。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "开户时，点击“下一步”页面没有跳转，怎么回事？",
+    "answer": "<p>\n<span>若您使用官网进行开户，建议您建议使用IE浏览器访问。请您在提交之前，检查下带有“*”键的选项中信息是否填写完整无误，是否出现未解决的错误提示，如有未填项、未上传的资料或不符合要求的信息则无法进入下一步。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在东方红APP开户时提示我“卡bin校验未通过”是怎么回事？",
+    "answer": "<p><span>1）检查是否正确选择的银行卡的银行名称；</span></p>\n<p><span>2）检查银行卡号是否输入正确。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "开户后，我可不可以新增银行卡？",
+    "answer": "<p><span>您可以在开户申请的2个工作日后新增银行卡，但同一家银行的银行卡只能绑定一张。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是否可以删除已绑定的银行卡？",
+    "answer": "<p><span>您可以删除已不再持有我司产品的银行卡，但账户中必须至少保留一张银行卡。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在东方红资产管理网上直销开户的当天，是否可以认/申购产品或者签订定投协议？\n",
+    "answer": "<p><span>东方红资产管理的网上直销平台在开户完成后的当天即可认/申购基金产品和签订定投协议，请注意您不能选择创建定投计协议当日为此定投协议的首次扣款日。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "多久可以查询东方红资产管理的直销平台的开户申请是否成功？",
+    "answer": "<p><span>东方红资产管理的网上直销平台的开户申请需要2个工作日确认成功或者失败。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我在东方红资产管理的网上直销平台开户失败了是什么原因？",
+    "answer": "<p><span>在开户的T+2个工作日后，若您开户申请被确认失败，您可拨打东方红资产管理的客服热线400-920-0808，由东方红的客服人员为您查询具体开户失败原因。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "东方红资产管理的网上直销平台可否可以销户？",
+    "answer": "<p><span>目前东方红资产管理的网上直销平台不可进行销户。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在直销开户确认后，我是否会收到开户确认的纸质或者电子证明？",
+    "answer": "<p><span>在您的开户申请确认后，您可拨打东方红资产管理的客服热线4009200808定制相关服务。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "进行交易是否安全？",
+    "answer": "<p><span>东方红资产管理的网上直销平台开户时，需通过银行端验证身份信息，个人信息严格保密；交易时双重密码保护，且有交易提醒功能；资金进出则遵循“同卡同进同出原则”，资金只能通过您本人名下的银行卡闭环流转，即赎回资金只能回到您购买基金的银行卡上，无法修改为他人银行卡，可保证安全性。</span>\n</p>",
+    "other": {
+      "classification": "开户问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "您可点击以下连接查看在我司官网的登录过程演示：",
+    "answer": "<p><a href=\"https://www.dfham.com/contents/2018/6/11-8bc07a2ea8fc4cc5bb5ca4b4acd17ab2.html\" target=\"_blank\" textvalue=\"官网如何登陆\"><span>官网如何登陆</span></a></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "您可点击以下连接查看在我司官网找回交易密码的过程演示：",
+    "answer": "<p><a href=\"https://www.dfham.com/contents/2018/6/11-66edd87fc3ae4996875fdeb725b6442d.html\" target=\"_blank\" textvalue=\"官网如何找回密码\"><span>官网如何找回密码</span></a></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我怎么在东方红资产管理的网上平台登录？",
+    "answer": "<p><span>若您为直销客户，您可通过绑定交易密码在东方红资产管理的官网、东方红APP及微信服务号进行交易及查询账户信息；</span></p>\n<p><span>若您为纯代销客户（通过银行、证券公司开户），您可通过绑定查询密码在东方红资产管理的官网、东方红APP及微信服务号查询账户信息。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是直销客户，忘记了交易密码怎么办？",
+    "answer": "<p>\n<span>您可在东方红官网www.dfham.com的登录页面，点击“忘记密码”，进入密码修改流程，根据页面指引输入账户相关信息如证件号码、已绑定的银行卡、银行预留手机号等，通过身份验证后，即可设置新密码。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我的交易密码被锁定怎么办？",
+    "answer": "<p>\n<span>为保证您的账户信息安全，在东方红直销平台（官网、APP或者微信服务号）24小时内累计输入错误的直销交易密码超过10次，您的直销交易密码将自动被锁定，您可通过“忘记交易密码”，验证个人身份后重新设置交易密码。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是代销客户，我的查询密码是什么？查询密码被锁定怎么办？",
+    "answer": "<p><span>代销客户的查询密码被锁定后，您可致电东方红资产管理的客服热线400-920-0808转人工服务为您解锁并重置。</span></p>",
+    "other": {
+      "classification": "登录问题",
+      "rough": "开户及登录类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金的申购？",
+    "answer": "<p>申购即买入基金，购买已经成立的在开放期的基金。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金的认购？",
+    "answer": "<p>认购是指在基金募集期购买基金的行为，基金的发行价一般为1元。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "基金投资按照什么价格成交？",
+    "answer": "<p>基金的交易价格以交易日的15：00点为临界点。</p>\n<p>基金交易日（T日）15：00点之前的申购申请，属于当天的交易，按当天的净值成交；交易日15:00点后的申购申请，算作下一个交易日的交易，按下一个交易日的净值成交。</p>\n<p>注1：交易日当天的净值一般于交易日的晚间公布，即发起申购申请时成交价格是未知的。</p>\n<p>注2：在发行期内认购新发行的基金，成交价格按发行面额1元计价。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "认/申购东方红系列产品时会有什么费用？",
+    "answer": "<p>认/申购费会在您认/申购产品时收取，该费用一般按您的投资金额递减。不同产品的认/申购费不同，您可至我司官网查看不同产品具体的费率结构。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "基金的申购费如何计算？",
+    "answer": "<p>目前东方红系列基金的申购费收取模式均为前端收费，申购费的计算公式为：</p>\n<p>净申购金额 = 申购金额/（1+申购费率）；</p>\n<p>申购费用 = 申购金额－净申购金额 。</p>\n<p>注：东方红货币基金（005056、005057、005058）申购时不收取申购费。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "认/申购是否可以撤单？",
+    "answer": "<p>（1）认购申请不得撤单；定投扣款日当日无法撤单；</p>\n<p>（2）申购申请可以在提交申购申请当日的交易时间内撤单。部分产品的申购申请不可撤单，详情请参考各产品合同。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "撤单后资金几天到账？",
+    "answer": "<p>1、直销客户在交易日（T日）15：00之前的撤单申请，属于当天的撤单申请，撤单资金一般在T+2个工作日到账。</p>\n<p>2、代销客户的撤单资金的到账时间以代销机构的规则为准，具体您可咨询各代销机构。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "货币基金哪天开始计算收益？",
+    "answer": "<p>以交易日的15：00点为临界点。基金交易日（T日）15：00点之前的申购申请，属于当天的交易，T+1个交易日确认并开始计算收益。</p>",
+    "other": {
+      "classification": "购买问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金定投？",
+    "answer": "<p><span>基金的投资方式有2种，即单笔投资和定期定额投资。基金定投是一种长期的定期定额、分批投入的基金投资方式，省时省力、平滑成本，能够规避投资者对申购实际主观判断的影响，适合长期基金投资。</span></p>\n<p><span>东方红资产管理的网上直销平台的定期定额业务是指投资者通过我司网上直销交易系统（东方红资产管理官网、东方红资产管理APP、东方红资产管理的微信服务号（dfh_zcgl）提交基金定期定额申购业务计划的申请，该计划约定每月扣款日、扣款金额、对应扣款银行账户、申购基金名称等内容，由本公司根据经确认的申请于约定扣款日自动完成投资者所定投基金的申购申请及资金扣款的一种投资方式。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "东方红直销的定投业务的定投周期是多久？",
+    "answer": "<p><span>东方红的网上基金定投业务以月度、周或日做为交易申请周期。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "东方红系列产品的定投的最低起投金额是多少？",
+    "answer": "<p><span>1、东方红直销平台的基金定投业务的最低起投金额为10元，无级差，具体情况以本公司最新公告为准；</span></p>\n<p><span>2、代销机构的定投业务的最低起投金额以代销机构的规定为准。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "定投是否可以撤单？",
+    "answer": "<p><span>定投计划的扣款日当日无法撤单。若您不想继续参与定投，您可在下一个工作日终止定投计划。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "终止定投等于赎回吗？",
+    "answer": "<p><span>终止定投协议不等于基金赎回。终止定投协议只是不再进行定投的扣款，但您已购买的基金份额仍在您的基金账户下。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是东方红资产管理的直销客户，今天是定投的扣款日，为什么没有扣款？",
+    "answer": "<p><span>可能有以下几种情况：</span></p>\n<p><span>（1）所绑定的银行卡余额不足；</span></p>\n<p><span>（2）扣款日设置为发起定投计划的当天，下一个扣款周期生效；</span></p>\n<p><span>（3）定投协议已终止/暂停；</span></p>\n<p><span>（4）扣款日为非交易日，系统顺延到下一交易日发起约定的交易申请 ；</span></p>\n<p><span>（5）因网络故障、系统故障、银行卡状态异常等其他情况。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是东方红资产管理的代销客户，今天是定投的扣款日，为什么没有扣款？",
+    "answer": "<p><span>从代销机构发起的定投由代销机构发起扣款，详情您可咨询您的销售机构。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如果定投的扣款日银行卡中资金不足怎么办？",
+    "answer": "<p><span>若您定投扣款日因资金不足，或因网络故障、系统故障、银行卡状态异常等原因而导致扣款不成功的情况，将自动顺延至下一个工作日再次扣款，连续扣款失败3个工作日则本期定期定额申购失败。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "可否设置集合资产管理计划的定投协议？",
+    "answer": "<p><span>定投业务仅支持本公司公告的开通网上交易定期申购业务的开放式基金，集合资产管理计划不能参与定投业务。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我是东方红资产管理的直销客户，什么情况下我的定投计划会自动终止？",
+    "answer": "<p><span>因投资者银行账户资金不足、网络故障、系统故障、银行卡状态异常等原因导致连续三期定投申购失败的，投资者设置的该定投计划自动终止。</span></p>",
+    "other": {
+      "classification": "定投问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是赎回？",
+    "answer": "<p><span>将已持有的基金份额按公布的净值卖出并收回现金的行为，称为赎回。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如何办理赎回业务？",
+    "answer": "<p><span>1、在直销平台认/申购的基金份额</span></p>\n<p><span>可以通过东方红官网、APP和微信服务号提交赎回申请。您需通过以上渠道使用交易密码登陆您的直销账户，选择需要赎回的基金产品，提交赎回申请。</span></p>\n<p><span>2、通过代销机构认/申购的份额（通过银行、证券公司开户购买）</span></p>\n<p><span>需通过原购买的代销机构提交赎回申请，具体的赎回流程您可咨询原代销机构。</span></p>\n<p><span>注：部分定期开放的基金需在开放期办理赎回，详情请关注各产品开放期公告。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "基金赎回按照什么价格成交？",
+    "answer": "<p><span>以交易日的15：00点为临界点。</span></p>\n<p><span>基金交易日（T日）15：00点之前的赎回申请，属于当天的交易，按当天的净值成交；交易日15:00点后的赎回申请，算作下一个交易日的交易，按下一个交易日的净值成交。</span></p>\n<p><span>注：交易日当天的净值一般于交易日的晚间公布，即发起赎回申请时成交价格是未知的。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "赎回后资金几天到账？",
+    "answer": "<p><span>基金交易日（T日）15：00之前的赎回申请，属于当天的交易，按当天的净值成交；交易日15:00后的赎回申请，算下一个交易日的赎回申请。不同渠道、不同类型的基金赎回到账时间不同：</span></p>\n<p><span>1、东方红货币E（005058），赎回资金一般在T+1个工作日到账；</span></p>\n<p><span>2、东方红货币A（005056）、东方红货币B（005057），通过直销中心的赎回资金一般在T+2个工作日到账；通过银行、证券公司等代销渠道的赎回资金一般在T+2-4个工作日到账；</span></p>\n<p><span>3、东方红系列其他基金，直销渠道的赎回资金一般T+3个工作日到账，通过代销渠道的赎回资金一般在T+3-5个工作日到账。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "我的银行卡遗失/注销了，该怎么赎回基金？",
+    "answer": "<p><span>1、若您是直销客户，您需要办理银行卡变更业务，换卡成功后您可以办理赎回业务，赎回资金会到您新的银行卡账户。</span></p>\n<p><span>2、若您是代销客户（通过银行、证券公司开户），您需联系原代销机构更换新的银行卡，并按代销机构的赎回流程进行赎回操作。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "赎回费怎么计算？",
+    "answer": "<p><span>赎回费率一般按照基金的持有时间而递减，具体费率请参考各产品合同。</span></p>\n<p><span>赎回总金额=赎回份额×赎回当日基金单位净值；</span></p>\n<p><span>赎回费=赎回总金额×赎回费率 ；</span></p>\n<p><span>净赎回金额=赎回总金额-赎回费用 。</span></p>\n<p><span>温馨提示：集合资产管理计划在符合业绩报酬计提条件的情况下，会在赎回总金额中扣除管理人应计提的业绩报酬后，再计算赎回费用，详情请参考各产品合同。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "持有时间如何计算？",
+    "answer": "<p><span>1、认购时买入的基金份额的持有时间：</span></p>\n<p><span>持有时间=赎回确认日 - 基金合同成立日 ；</span></p>\n<p><span>2、申购时买入的基金份额的持有时间：</span></p>\n<p><span>持有时间=赎回确认日-申购确认日 ；</span></p>\n<p><span>注：持有时间包含自然日，节假日和周末都算在持有时间内。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "业绩报酬是什么？",
+    "answer": "<p><span>集合资产管理计划在集合计划的分红日、委托人退出日和集合计划终止日，若符合业绩报酬计提条件，会计提业绩报，详情请参考各产品合同。</span></p>\n<p><br/></p>",
+    "other": {
+      "classification": "赎回问题",
+      "rough": "购买、定投及赎回类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是分红？\n",
+    "answer": "<p><span>基金分红是指基金将收益的一部分以现金或者红利再投资的方式派发给基金投资人,这部分收益原来就是基金单位净值的一部分。您的资产不会因为基金的分红而增加或减少。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "哪些客户可以享受分红？",
+    "answer": "<p><span>分红的权益登记日登记在册的全体投资者享有分红权益。其中，权益登记日当天申请申购的产品份额不享有本次分红权益；权益登记日当天申请赎回的产品份额享有本次分红权益。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "红利再投资是什么意思？",
+    "answer": "<p><span>红利再投资是指在基金进行分红时，基金持有人将分红的金额以当天的基金净值直接用于购买该基金，增加原先持有基金的份额。红利再投资一般不收取申购费。</span></p>\n<p><span>温馨提示：集合资产管理计划在分红时可能会提取部分业绩报酬，详情请参考各产品合同。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "现金分红和红利再投资有什么区别？",
+    "answer": "<p><span>1、现金分红</span></p>\n<p><span>基金投资人直接获得现金的回报，即直接获得现金红利。</span></p>\n<p><span>2、红利再投资</span></p>\n<p><span>将所得的现金红利无申购费转化为基金份额。即将所分得的现金红利转为基金份额，继续持有该基金。</span></p>\n<p><span>产品分红前，会以公告等方式提醒客户。若您打算最近要用钱或者是想要提前锁定收益，即可选择“现金分红”方式，分完红后，可将分红的钱直接取出使用。但如果不着急用钱，而是想多买一点这款基金，即可选择“红利再投资”，这样就可直接以没有手续费的方式最优惠地增加这款基金的份额了。</span>\n</p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "现金分红和红利再投资这两种分红方式哪种比较好？",
+    "answer": "<p><span>现金分红可以为投资人提供现金流，在震荡市场中，可以将已实现收益及时落袋为安，适合有特殊现金流需要的投资人。</span></p>\n<p><span>红利再投资可以让投资人享受复利收益，通过长期投资追求更高收益，适合具有长期投资计划的投资人。</span></p>\n<p><span>投资者应该选择适合自己需求的分红方式。如果投资者并没有急切的现金需要，而市场又处于上升阶段，红利再投资可以免除申购基金份额的手续费用，扩大投资者的持有份额，避免了现金被闲置。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "红利再投资增加的基金份额，基金的持有时间是否会重新计算？",
+    "answer": "<p><span>红利再投所增加的这部分基金份额，持有时间将从分红后重新开始计算。即在您赎回时，红利再投增加的这部分基金份额的持有时间和您申购的基金份额的持有时间是不同的。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "基金分红规则是什么？",
+    "answer": "<p><span>基金分红一般涉及以下概念：</span></p>\n<p><span>——权益登记日：基金管理人进行红利分配时，需要定出某一天，这一天登记在册的持有人可以参加分红，这一天就是权益登记日。</span></p>\n<p><span>——除息日：除息日就是在预先确定的某日从基金资产中先行扣除所分的红利总金额。除息日当日你持有的基金净值和收益可能下降，当日的基金申购、赎回的成交价格按除息后的单位净值计算。</span></p>\n<p><span>——派息日：即红利发放日，是投资者的红利款自托管账户划出的当日。温馨提示：</span></p>\n<p><span>由于一般基金产品的申购是T+1确认，除息日（权益登记日）当天或以后申购基金则不享有该基金此次分红。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是分红的权益登记日？",
+    "answer": "<p><span>基金进行红利分配时，需要定出某一天，这一天登记在册的基金份额持有人可享有本次分红的权益，这一天就是权益登记日。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是分红的除息日？",
+    "answer": "<p><span>除息日是指在预先确定的某日从基金资产中先行扣除所分的红利总金额，除息日当日的基金申购、赎回的成交价格按除息后的单位净值计算。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是分红的红利发放日？",
+    "answer": "<p><span>红利发放日是指投资者的红利款自托管账户划出的当日。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "货币基金能否修改分红方式？",
+    "answer": "<p><span>货币基金的分红方式是固定的，不支持修改分红方式，只能为红利再投资。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "权益登记日当天申请赎回的产品份额享有这次分红吗？",
+    "answer": "<p><span>权益登记日当天申请赎回的产品份额享有本次分红权益。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "权益登记日当天申请申购的产品份额享有这次分红吗？",
+    "answer": "<p><span>权益登记日当天申请申购的产品份额不享有本次分红权益。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如何修改已购产品的分红方式？",
+    "answer": "<p><span>代销客户：如果您是在银行、证券公司等销售机构购买的基金，需要到您办理业务的销售机构办理分红方式修改，具体方法以相关机构规定为准。</span></p>\n<p><span>直销客户：请登录官网（www.dfham.com）,官方APP进行修改。</span></p>\n<p><span>温馨提示：</span></p>\n<p><span>※不同支付账户认购/申购的基金需各自设置分红方式。请留意基金份额所属的支付账户，选中该支付账户后，点击修改相应基金的分红方式。</span></p>\n<p><span>※使用多个支付账户认购/申购了同一支基金，修改分红方式时，需针对多个支付账户逐个修改。</span></p>\n<p><span>※部分产品的分红方式固定为现金红利或红利再投资（具体参照产品页面详情），不可修改。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "权益登记日当天能否修改分红方式？",
+    "answer": "<p><span>权益登记日当天可以提交修改分红方式的申请，但是修改的分红方式将于下次分红时生效。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "分红后产品净值为何会下降？",
+    "answer": "<p><span>开放式基金分红后基金份额净值会相应的下跌，这只不过是一种表面现象。一般情况下，分多少红利基金净值就会相应地减少多少，但基金的累计净值不会因此而发生变化。</span></p>\n<p><span>分红只是实现收益的一种方式，如果投资者的分红方式为现金分红，也就相当于将账面资产的一部分转化成为现金红利，这部分红利会返回到投资者的资金账户。</span></p>\n<p><span>如果投资者的分红方式为红利再投资，虽然分红后基金的最新净值会减少，但投资者持有的基金份额增加了红利再投资的部分，所以，也相当于投资者的账面资产没有变动。</span></p>\n<p><span>所以，不必为基金分红后暂时的净值下降而担忧，关键要看它的累计净值是不是在稳步增长。</span></p>\n<p><span><br/></span></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "基金分红之后，红利再投资和现金分红到账时间？",
+    "answer": "<p><span>现金红利款一般于权益登记日后的T+3-5个工作日内划至委托人的资金账户，具体到账时间取决于销售机构业务规则；红利再投资所得的份额于权益登记日后的T+1个工作日计入投资者的账户；</span></p>\n<p><span><br/></span></p>\n<p><strong><span>温馨提示：</span></strong></p>\n<p><strong><span>若是没有收到分红款项，若是直销渠道办理的，需要确认银行卡目前是否正常使用。若是代销渠道持有的份额，可以通过代销渠道查询下对应的划拨状态。</span></strong></p>\n<p><br/></p>",
+    "other": {
+      "classification": "分红问题",
+      "rough": "分红类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金转托管？",
+    "answer": "<p>基金转托管，指基金份额持有人将其在一家销售机构交易账户持有的基金份额，全部或部分转移到另一销售机构交易账户的行为，是针对证券交易所上市基金托管转移的一项业务。</p>\n<p>投资者可自由进行基金的转托管，既可从场内转托管到场外（包括基金的直销和代销机构），也可从场外转托管到场内。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是跨系统转托管？",
+    "answer": "<p>基金跨系统转托管业务是指基金份额的持有人将持有的基金份额在开放式基金登记结算系统（TA系统）和证券登记结算系统之间进行转登记的行为。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "开放式基金登记结算系统是什么？",
+    "answer": "<p>中国登记结算有限公司的开放式基金登记结算系统，即TA系统（Transfer\n            Agent），中国登记结算有限公司上海分公司和深圳分公司分别对应上海TA系统和深圳TA系统。投资者通过场外认/申购的基金份额注册登记在中国登记结算有限公司的开放式基金注册登记系统下。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "证券登记结算系统是什么？",
+    "answer": "<p>投资者通过场内认/申购的基金份额登记在中国结算公司的证券登记结算系统下。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金的场内交易？",
+    "answer": "<p>场内是证券市场，也就是大家常说的二级市场。基金的场内交易在证券交易所，投资者通过股东账户或封闭式基金账户，进行买、卖基金份额或者申购和赎回基金的业务。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金的场外交易？",
+    "answer": "<p>基金的场外交易就是证券市场外，通过东方红的直销平台或者代销机构（包括银行、证券公司、第三方销售公司等）进行基金的认/申购、赎回等业务。</p>\n<p>普通的开放式基金一般为场外基金，每天只有一个净值作为申购赎回的价格，可以在场外申购赎回，就是大家熟知的销售渠道。ETF和LOF基金是例外，既可以在场内交易，也可以在场外申购赎回。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是上市交易基金的“折价”？",
+    "answer": "<p>当上市交易的基金二级市场上的交易价格低于基金净值时，称为“折价”。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是上市交易基金的“溢价”？",
+    "answer": "<p>当上市交易的基金二级市场上的交易价格高于基金净值时，称为“溢价”。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "什么是基金的折价率？",
+    "answer": "<p>基金折价率=(单位净值-单位市价)/单位净值；</p>\n<p>温馨提示：基金折价率大于0时为“折价”，基金折价率小于0时为“溢价”。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "哪些产品可以办理跨系统转托管？东方红资产管理旗下目前有多只在深交所或上交所上市交易的基金，可以进行转托管，具体如下:\n        ",
+    "answer": "<table>\n<tbody>\n<tr class=\"firstRow\">\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><strong>基金简称</strong>\n                         \n                </td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><strong>代码</strong>\n                         \n                </td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><strong>场内简称</strong>\n                         \n                </td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><strong>交易所</strong>\n                         \n                </td>\n</tr>\n<tr>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿丰混合</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">169101</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿丰LOF</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">深交所</td>\n</tr>\n<tr>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿阳混合</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">169102</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><span>东方红</span>睿阳定开</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">深交所</td>\n</tr>\n<tr>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿轩沪港深混合</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">169103</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><span>东方红</span><span>睿轩定开</span></td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">深交所</td>\n</tr>\n<tr>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿满沪港深混合</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">169104</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><span>东方红睿满LOF</span></td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">深交所</td>\n</tr>\n<tr>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">东方红睿华沪港深混合</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">169105</td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\"><span>东方红睿华LOF</span></td>\n<td style=\"WORD-BREAK: break-all\" valign=\"top\" width=\"159\">深交所</td>\n</tr>\n<tr>\n<td style=\"word-break: break-all;\" valign=\"top\">东方红创新优选定开混合</td>\n<td style=\"word-break: break-all;\" valign=\"top\">169106</td>\n<td style=\"word-break: break-all;\" valign=\"top\">东方红创优定开</td>\n<td style=\"word-break: break-all;\" valign=\"top\">深交所</td>\n</tr>\n<tr>\n<td style=\"word-break: break-all;\" valign=\"top\">东方红恒阳五年定开混合</td>\n<td style=\"word-break: break-all;\" valign=\"top\">169107</td>\n<td style=\"word-break: break-all;\" valign=\"top\">东方红恒阳定开</td>\n<td style=\"word-break: break-all;\" valign=\"top\">深交所</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东方红均衡优选定开</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">169108</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东证均衡</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">深交所（暂未上市交易）</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东方红睿玺三年定开混合</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">501049</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东证睿玺</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">上交所</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东方红目标优选定开混合</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">501053</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东证目优</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">上交所</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东方红睿泽三年定开混合</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">501054</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东证睿泽</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">上交所</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东方红恒元五年定开混合</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">501066</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">东证恒元</td>\n<td colspan=\"1\" rowspan=\"1\" style=\"word-break: break-all;\" valign=\"top\">上交所</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"COLOR: #ff0000\"><br/></span></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如何办理转托管业务？",
+    "answer": "<p>第一步：在拟转入的券商处开立股东账户，且建立场内外基金账户对应关系（建议一般在关联基金账号之后1-2个工作日再办理转入）。</p>\n<p>第二步：与基金份额拟转入的证券营业部取得联系，获知该证券营业部的席位号码。</p>\n<p>第三步：到原申购渠道提交跨系统转托管业务申请，提供券商开立的基础股东卡号及席位号，投资者须写明拟转入的证券营业部席位号码、基金账户号码、拟转出的基金代码和转托管数量，其中转托管数量应为整数份。</p>\n<p><br/></p>\n<p>温馨提示：</p>\n<p>（1）投资者T日（交易日）申请办理的跨系统转托管若为有效申报，则其申报转托管的上市开放式基金份额可在T+2日到账。亦即，投资者自T+2日始可申请赎回或申报卖出基金份额。</p>\n<p>（2）光大银行的客户在办理跨系统转托管业务时，请注意“销售机构代码”为102，“销售商网点”为交易所席位号码。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "证券营业部的深交所席位号是什么？",
+    "answer": "<p>在办理场外转场内的跨系统转托管之前，您须与基金份额拟转入的证券营业部取得联系，获知该证券营业部的深交所席位号码，深交所席位号为6位数字。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "证券营业部的上交所席位号是什么？",
+    "answer": "<p>在办理场外转场内的跨系统转托管之前，您须与基金份额拟转入的证券营业部取得联系，获知该证券营业部的上交所席位号码，上交所席位号为5位数字。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "转托管需要几天确认？我什么时候可以在场内（二级市场）看到基金份额？",
+    "answer": "<p>投资者T日（交易日）申请办理的跨系统转托管若为有效申报，则其申报转托管的基金份额可在T+2日到账。投资者自T+2日即可交易基金份额。</p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在券商做账户登记（基金关联）时，所需登记的场内基金账号是什么呢？",
+    "answer": "<p>\n            转托管后，您需在券商使用场内基金账号进行登记，与投资者在场外认购时使用的99或98开头的12位中登开放式基金账号的后10位一致。上交所的场内基金账号一般为F开头的10位的账号，深交所的场内基金账号一般为10位数字的账号。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如何查询99或98中登的开放式基金账号？",
+    "answer": "<p>您可通过东方红资产管理的网站（www.dfham.com）自助查询或通过客户服务热线（400-920-0808）人工为您查询您的99或98中登开放式基金账号。</p>\n<p>（1）官网自助查询：打开东方红资产管理的官网www.dfham.com，点击\n            “我要购买”。在登录页面输入您的开户证件号码和密码，输入验证码后点击“登录”即可进入至您的个人账户中查看您12位的99或98开头的开放式基金账号。</p>\n<p>（2）客户服务热线查询：您也可以拨打东方红资产管理的客户服务热线400-920-0808（免长途话费），按0转人工服务为您查询您12位的99或98开头的开放式基金账号。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "办理场内转场外的跨系统转托管业务时，东方红资产管理的销售机构代码是多少？\n",
+    "answer": "<p>东方红资产管理的销售机构代码为715。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "转托管业务会产生哪些费用？",
+    "answer": "<p>投资者申请跨系统转托管时，基金管理人不收取转托管费用，转出销售机构可能会收取一定费用，遵循各销售机构具体规定。场外转场内、场外转场外不收取手续费；场内转场外、场内转场内收费标准取决于各家销售机构。</p>\n<p><br/></p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "在操作转托管时，如果转托管确认失败，失败原因为“销售代理人代码错误”，如何处理？\n",
+    "answer": "<p>投资者需要再次确认所转入券商的“对方网点（席位号）”、“对方销售商”、“对方账号”是否有误。</p>",
+    "other": {
+      "classification": "转托管相关问题",
+      "rough": "转托管类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "如何参与网上基金定投？（以网上交易为例）第一步：登录网上交易系统（https://ec.dfham.com/etrading/)",
+    "answer": "<p>第二步：点击“定投计划”，“新增定期定投”，选择想要定投的基金、支付渠道、定投周期，输入每期定投金额（也可点击高级设置按累计成功金额、次数或终止日期终止定投计划），点击“下一步”。</p>\n<p>第三步：确认定投信息无误后输入交易密码，点击“下一步”。</p>\n<p>第四步：定投计划提交，可在“我的定投”中查询。</p>",
+    "other": {
+      "classification": "基金网上交易定期定额申购业务Q&A",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "收费模式以及协议状态是否有效等。若系统未按照您设定的扣款日进行扣款，您需要通过代销渠道进一步确认。\n",
+    "answer": "<p><br/></p>",
+    "other": {
+      "classification": "基金网上交易定期定额申购业务Q&A",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的简称和代码？",
+    "answer": "<p><span>该指数的简称为“东证竞争”，英文简称为“DFH Competitiveness”，指数代码为931142。</span></p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的基日和基点？",
+    "answer": "<p><span>该指数以2009年12月31日为基日，以1000点为基点。</span></p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的编制目的？",
+    "answer": "<p><span>该指数由各行业内净资产收益率排名靠前的上市公司股票构成样本股，旨在反映A股中具有长期竞争力、且在行业内处于龙头地位的上市公司股票的表现。</span></p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的样本选取方法？",
+    "answer": "<p><span>该指数的样本空间为中证800指数样本股，样本选择方法包括以下三步：</span></p>\n<p><span>（1）在中证800指数样本股中，对各行业内个股的历史扣非净利润总和与净资产均值的比值进行排序，选取每个行业内排名靠前20%的个股作为待选样本；</span></p>\n<p><span>（2）在每个行业内，剔除过去一年扣非净利润同比增长为负的待选样本，将剩余样本作为样本股；</span></p>\n<p><span>（3）按以上方法，当单个行业样本个数为零时，将沪深300指数在该行业的全部样本股纳入指数。</span></p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的计算方法？",
+    "answer": "<p><span>中证东方红竞争力指数计算公式为：</span></p>\n<p><span>报告期指数=报告期样本股的调整市值/除数×1000</span></p>\n<p><span> 其中，调整市值＝∑(股价×调整股本数×权重因子)。调整股本数的计算方法、除数修正方法参见计算与维护细则。权重因子介于0和1之间，使得样本股所在行业权重与沪深300指数对应行业权重相等，且行业内个股权重以总市值分级靠档方法确定。</span>\n</p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  },
+  {
+    "question": "中证东方红竞争力指数的样本和权重如何调整？",
+    "answer": "<p><span>样本和权重调整分为定期调整和临时调整，具体如下：</span></p>\n<p><span>（1）定期调整</span></p>\n<p><span>中证东方红竞争力指数每半年调整一次样本股，样本股调整实施时间分别为每年5月和11月的第五个交易日。</span></p>\n<p><span>权重因子随样本股定期调整而调整，调整时间与指数样本定期调整实施时间相同。在下一个定期调整日前，权重因子一般固定不变。</span></p>\n<p><span>（2）临时调整</span></p>\n<p><span>特殊情况下将对东方红竞争力指数进行临时调整。当样本股暂停上市或退市时，将其从指数样本中剔除。样本股公司发生收购、合并、分拆、停牌等情形，可参照指数计算与维护细则处理。</span></p>",
+    "other": {
+      "classification": "小知识全普及|中证东方红竞争力指数发布",
+      "rough": "专题类",
+      "source": "上海东方证券资产"
+    }
+  }
+]

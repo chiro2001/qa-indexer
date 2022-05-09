@@ -3,6 +3,7 @@ from spiders.dfzq import Dfzq
 from spiders.fzzq import Fzzq
 from spiders.gtja import GtjaCommonProblem
 from spiders.pingan import PingAnStatic, PingAn
+from spiders.shdfzq import Shdfzq
 from spiders.shzq import ShzqIPO, ShzqInvestors
 from spiders.utils.run import run
 
@@ -22,9 +23,12 @@ def main():
         Fzzq,
         # 中国平安-科创板相关问题与解答
         PingAnStatic,
+        # 中国平安（动态页面）
+        PingAn
     ]
     testing_spiders = [
-        PingAn
+        # 上海东方证券资产
+        Shdfzq
     ]
     # run(tested_spiders)
     run(testing_spiders)
